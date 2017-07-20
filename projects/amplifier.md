@@ -1,12 +1,10 @@
 ---
 layout: default
 title: Project
-permalink: /projects/project/
+permalink: /projects/amplifier/
 ---
 
-<div class="left">
-    <img src="/" width="100" height="100">
-</div>
+<img src="/assets/images/projects/amplifier/amplifier_picture.JPG" width="200" class="left" alt="alt text">
 
 This is the project details page.
 
@@ -23,9 +21,24 @@ Integer est eros, varius a ornare ac, vehicula a ligula. Duis et ornare odio. Nu
 <div class="clear"></div>
 
 <ul class="image-list">
-    <li><a href="#"><img src="/" width="100" height="100"></a></li>
-    <li><a href="#"><img src="/" width="100" height="100"></a></li>
-    <li><a href="#"><img src="/" width="100" height="100"></a></li>
-    <li><a href="#"><img src="/" width="100" height="100"></a></li>
-    <li><a href="#"><img src="/" width="100" height="100"></a></li>
+    <li>
+        <a href="/assets/images/projects/amplifier/amplifier_picture.JPG">
+        <img src="/assets/images/projects/amplifier/amplifier_picture.JPG" height="100" alt="alt text"></a>
+    </li>
+    <li>
+        <a href="/assets/images/projects/amplifier/amplifier_picture.JPG">
+        <img src="/assets/images/projects/amplifier/amplifier_picture.JPG" height="100" alt="alt text"></a>
+    </li>
+    <li>
+        <a href="/assets/images/projects/amplifier/amplifier_picture.JPG">
+        <img src="/assets/images/projects/amplifier/amplifier_picture.JPG" height="100" alt="alt text"></a>
+    </li>
+    <li>
+        <a href="/assets/images/projects/amplifier/amplifier_picture.JPG">
+        <img src="/assets/images/projects/amplifier/amplifier_picture.JPG" height="100" alt="alt text"></a>
+    </li>
+    <li>
+        <a href="/assets/images/projects/amplifier/amplifier_picture.JPG">
+        <img src="/assets/images/projects/amplifier/amplifier_picture.JPG" height="100" alt="alt text"></a>
+    </li>
 </ul>
