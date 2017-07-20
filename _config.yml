@@ -8,3 +8,5 @@ permalink: pretty
 markdown: kramdown
 exclude:
     - README.md
+    - Gemfile
+    - Gemfile.lock
