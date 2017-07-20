@@ -58,9 +58,16 @@ header {
                         padding: 5px 10px;
                     }
 
+                    &.active {
+                        color: $white;
+                        background: $themeLightestRed;
+                        border-color: $themeLightestRed;
+                    }
+
                     &:hover, &:active {
                         color: $white;
-                        background: #6E0000;
+                        background: $themeRed;
+                        border-color: $themeRed;
                     }
                 }
             }
