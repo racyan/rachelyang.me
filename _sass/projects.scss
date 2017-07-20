@@ -1,0 +1,44 @@
+.project-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-bottom: -20px;
+
+    li {
+        display: inline-block;
+        text-align: center;
+        flex-grow: 1;
+        margin: 0 10px 20px 10px;
+
+        a {
+            display: inline-block;
+            width: 200px;
+            padding: 10px 20px;
+            border: 1px solid black;
+            color: $black;
+            text-decoration: none;
+
+            &:visited, &:active, &:hover {
+                color: $black;
+            }
+
+            &:active, &:hover {
+                color: $themeLightestRed;
+                border-color: $themeLightestRed;
+            }
+
+            h2 {
+                margin: 0 0 5px 0;
+                padding: 0;
+                font-size: 1em;
+            }
+
+            p {
+                margin: 0 5px 0 0;
+                padding: 0;
+            }
+        }
+    }
+}
