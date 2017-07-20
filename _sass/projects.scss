@@ -42,3 +42,19 @@
         }
     }
 }
+
+.image-list {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-bottom: -20px;
+
+    li {
+        display: inline-block;
+        text-align: center;
+        flex-grow: 1;
+        margin: 0 10px 20px 10px;
+    }
+}
