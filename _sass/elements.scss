@@ -1,0 +1,20 @@
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Orbitron', sans-serif;
+}
+
+a {
+    color: $themeLightestRed;
+
+    &:visited {
+        color: $themeRed;
+    }
+
+    &:active {
+        color: $themeLightestRedComplement;
+        text-decoration: none;
+    }
+
+    &:hover {
+        text-decoration: none;
+    }
+}

@@ -6,6 +6,7 @@
 
     <title>{{page.title}} | {{ site.title }}</title>
 
+    <link href="https://fonts.googleapis.com/css?family=Orbitron:700" rel="stylesheet">
     <link rel="stylesheet" href="/assets/css/main.css">
 </head>
 <body>
@@ -15,6 +16,7 @@
             <a href="/">
                 {{ site.title }}
             </a>
+            <div class="line"></div>
         </h1>
         <nav>
             <ul>
@@ -31,9 +33,24 @@
     </section>
 
     <footer>
+        <div><a href="mailto:rsyang@mit.edu">rsyang@mit.edu</a></div>
         <div>
             <p>Copyright &copy; {{ 'now' | date: "%Y" }}</p>
             <p>Rachel Yang</p>
+        </div>
+        <div>
+            <ul>
+                <li>
+                    <a href="https://github.com/racyan" id="github-link" title="GitHub">
+                        <img src="/assets/images/GitHub-Mark-32px.png" alt="GitHub">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.linkedin.com/in/racyan" id="linkedin-link" title="LinkedIn">
+                        <img src="/assets/images/In-Black-34px-R.png" alt="LinkedIn">
+                    </a>
+                </li>
+            </ul>
         </div>
     </footer>
 
