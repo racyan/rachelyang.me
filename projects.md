@@ -29,7 +29,7 @@ projects_classes: active
 	<li>
         <a href="/projects/temp_sensor/">
             <h2>Temperature Sensor</h2>
-			<img src="/assets/images/projects/temp_sensor/temp-sensor_layout.PNG" height="100" alt="alt text">
+			<img src="/assets/images/projects/temp_sensor/temp-sensor_layout.png" height="100" alt="alt text">
             <p>
                 <!--The description of the project goes here.-->
             </p>

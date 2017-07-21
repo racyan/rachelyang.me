@@ -16,16 +16,16 @@ Skills used: LTSpice, Eagle (schematic capture and board layout), Arduino
 
 <ul class="image-list">
     <li>
-        <a href="/assets/images/projects/temp_sensor/temp-sensor_schematic.PNG">
-        <img src="/assets/images/projects/temp_sensor/temp-sensor_schematic.PNG" height="100" alt="alt text"></a>
+        <a href="/assets/images/projects/temp_sensor/temp-sensor_schematic.png">
+        <img src="/assets/images/projects/temp_sensor/temp-sensor_schematic.png" height="100" alt="alt text"></a>
     </li>
     <li>
-        <a href="/assets/images/projects/temp_sensor/temp-sensor_layout.PNG">
-        <img src="/assets/images/projects/temp_sensor/temp-sensor_layout.PNG" height="100" alt="alt text"></a>
+        <a href="/assets/images/projects/temp_sensor/temp-sensor_layout.png">
+        <img src="/assets/images/projects/temp_sensor/temp-sensor_layout.png" height="100" alt="alt text"></a>
     </li>
     <li>
-        <a href="/assets/images/projects/temp_sensor/temp-sensor_data.PNG">
-        <img src="/assets/images/projects/temp_sensor/temp-sensor_data.PNG" height="100" alt="alt text"></a>
+        <a href="/assets/images/projects/temp_sensor/temp-sensor_data.png">
+        <img src="/assets/images/projects/temp_sensor/temp-sensor_data.png" height="100" alt="alt text"></a>
     </li>
 <!--    <li>
         <a href="/assets/images/projects/amplifier/amplifier_picture.JPG">

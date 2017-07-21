@@ -18,12 +18,12 @@ Skills used: Autodesk Inventor, laser cutting, soldering
         <img src="/assets/images/projects/amplifier/amplifier_picture.JPG" height="100" alt="alt text"></a>
     </li>
     <li>
-        <a href="/assets/images/projects/amplifier/amplifier_cad.PNG">
-        <img src="/assets/images/projects/amplifier/amplifier_cad.PNG" height="100" alt="alt text"></a>
+        <a href="/assets/images/projects/amplifier/amplifier_cad.png">
+        <img src="/assets/images/projects/amplifier/amplifier_cad.png" height="100" alt="alt text"></a>
     </li>
     <li>
-        <a href="/assets/images/projects/amplifier/amplifier_schematic.PNG">
-        <img src="/assets/images/projects/amplifier/amplifier_schematic.PNG" height="100" alt="alt text"></a>
+        <a href="/assets/images/projects/amplifier/amplifier_schematic.png">
+        <img src="/assets/images/projects/amplifier/amplifier_schematic.png" height="100" alt="alt text"></a>
     </li>
 <!--    <li>
         <a href="/assets/images/projects/amplifier/amplifier_picture.JPG">
