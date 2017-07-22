@@ -1,27 +1,29 @@
 ---
 layout: default
-title: Foosball
+title: Foosball Table
 permalink: /projects/foosball/
 ---
 
-<img src="/assets/images/projects/amplifier/amplifier_picture.JPG" width="200" class="left" alt="alt text">
+<h3> Relevant skills: Autodesk Inventor, laser cutting, 3D printing, basic machining </h3>
 
-This is the project details page.
+<img src="/assets/images/projects/foosball/foosball_cad.PNG" width="200" class="left" alt="alt text">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam dictum elit eget diam scelerisque posuere. Vivamus dui lacus, tempor nec dignissim eget, fringilla ut dolor. Phasellus et risus eleifend, dictum urna eleifend, auctor neque. Nulla facilisi. Cras ac molestie dolor. Suspendisse lectus lacus, euismod ut nulla ut, tristique ultrices mi. Maecenas laoreet sodales luctus. Proin nec nisl maximus, tincidunt magna ac, vehicula ex.
+I designed and built a two-player tabletop foosball table, measuring 23" x 14" x 8.25". The table was designed for a 2-3-3-2 player set-up, with each team composed of five players. The goals are centered in the table, while the retrieval holes are shifted off-center to make it easier for players to retrieve the ball.
 
-Suspendisse scelerisque nibh vitae orci commodo, eget sodales odio tincidunt. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis ornare dictum enim, eu eleifend nunc gravida in. Sed interdum volutpat molestie. Praesent ultrices aliquet nunc fringilla efficitur. Nunc eros nisl, pellentesque sed sem vel, fermentum ornare eros. Phasellus consectetur commodo hendrerit. Pellentesque eros nibh, commodo eu venenatis quis, dictum a tellus. Mauris hendrerit ipsum eget mi maximus, vel placerat est vestibulum. Nam ac cursus metus. Ut pretium dolor et turpis malesuada, vel blandit enim mattis. Sed in enim libero. Sed sed tincidunt lorem. Pellentesque nunc eros, ultricies sed maximus non, placerat imperdiet ipsum. Sed euismod aliquam nisi, non pretium purus volutpat eu.
-
-Pellentesque non nibh id lorem viverra semper quis sit amet dui. Nulla et pretium magna. Cras imperdiet vel mauris vitae egestas. Pellentesque a nisl ut ipsum dignissim hendrerit at id enim. Sed faucibus tortor gravida, hendrerit enim vitae, venenatis ante. Vestibulum ultrices ac elit eget dapibus. Quisque sit amet condimentum lacus, quis venenatis eros. Vivamus sollicitudin odio nec orci cursus, quis tincidunt justo tristique. Vestibulum ultrices nibh velit, a vulputate odio cursus id. Nullam et vestibulum velit, sed dapibus turpis. Proin bibendum, nunc imperdiet maximus sagittis, sem diam lobortis massa, sed scelerisque eros nisi vitae magna. Quisque sit amet dui non eros pulvinar tincidunt vitae eu mauris. Suspendisse ipsum nibh, vestibulum viverra rutrum et, consequat id felis. Sed sollicitudin dapibus eros vitae mollis. Nullam non tellus quis est efficitur commodo. Maecenas egestas urna sed dui lacinia tincidunt.
-
-Fusce ullamcorper sed ex id euismod. Mauris leo massa, vehicula ut mauris ut, suscipit aliquet ligula. Nulla ut elit hendrerit, mattis mi at, dapibus elit. Phasellus vestibulum augue eget lectus cursus aliquam. Cras semper lectus sit amet elit commodo, at imperdiet libero auctor. Suspendisse potenti. Mauris placerat blandit justo, at pharetra orci tempor a. Etiam et quam ac sapien aliquam consectetur in at ligula. Morbi blandit leo erat, sit amet tempor lacus faucibus non. Suspendisse potenti.
-
-Integer est eros, varius a ornare ac, vehicula a ligula. Duis et ornare odio. Nullam volutpat tortor id mauris varius, vel placerat mauris tincidunt. Cras tempor mi enim, in rutrum sapien volutpat quis. Aliquam consequat est lorem, non tristique sem venenatis sed. Maecenas euismod sem metus, ut elementum nunc molestie pharetra. Aenean pharetra leo sit amet elit laoreet, et sollicitudin sapien iaculis. Proin et placerat orci.
+The table was designed in Autodesk Inventor. I then lasercut the table pieces out of 3/16" plywood and glued the pieces together. The foosball players are made out of square wooden dowels, and the players were screwed onto the 1/4" diameter aluminum rods. The bushings on the rods were custom designed in Autodesk Inventor and 3D printed. 
 
 <div class="clear"></div>
 
 <ul class="image-list">
     <li>
+        <a href="/assets/images/projects/foosball/foosball_top.jpeg">
+        <img src="/assets/images/projects/foosball/foosball_top.jpeg" height="100" alt="alt text"></a>
+    </li>
+    <li>
+        <a href="/assets/images/projects/foosball/foosball_cad.PNG">
+        <img src="/assets/images/projects/foosball/foosball_cad.PNG" height="100" alt="alt text"></a>
+    </li>
+<!--    <li>
         <a href="/assets/images/projects/amplifier/amplifier_picture.JPG">
         <img src="/assets/images/projects/amplifier/amplifier_picture.JPG" height="100" alt="alt text"></a>
     </li>
@@ -32,13 +34,5 @@ Integer est eros, varius a ornare ac, vehicula a ligula. Duis et ornare odio. Nu
     <li>
         <a href="/assets/images/projects/amplifier/amplifier_picture.JPG">
         <img src="/assets/images/projects/amplifier/amplifier_picture.JPG" height="100" alt="alt text"></a>
-    </li>
-    <li>
-        <a href="/assets/images/projects/amplifier/amplifier_picture.JPG">
-        <img src="/assets/images/projects/amplifier/amplifier_picture.JPG" height="100" alt="alt text"></a>
-    </li>
-    <li>
-        <a href="/assets/images/projects/amplifier/amplifier_picture.JPG">
-        <img src="/assets/images/projects/amplifier/amplifier_picture.JPG" height="100" alt="alt text"></a>
-    </li>
+    </li> -->
 </ul>

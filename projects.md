@@ -11,7 +11,16 @@ projects_classes: active
     <li>
         <a href="/projects/amplifier/">
             <h2>Amplifier</h2>
-            <img src="/assets/images/projects/amplifier/amplifier_picture.JPG" height="150" alt="alt text">
+            <img src="/assets/images/projects/amplifier/amplifier_picture.JPG" height="150" alt="final amplifier">
+            <p>
+                <!--The description of the project goes here.-->
+            </p>
+        </a>
+    </li>
+	<li>
+        <a href="/projects/foosball/">
+            <h2>Foosball Table</h2>
+			<img src="/assets/images/projects/foosball/foosball_cad.PNG" height="150" alt="alt text">
             <p>
                 <!--The description of the project goes here.-->
             </p>
@@ -29,7 +38,16 @@ projects_classes: active
 	<li>
         <a href="/projects/temp_sensor/">
             <h2>Temperature Sensor</h2>
-			<img src="/assets/images/projects/temp_sensor/temp-sensor_layout.png" height="100" alt="alt text">
+			<img src="/assets/images/projects/temp_sensor/temp-sensor_board.jpg" height="150" alt="alt text">
+            <p>
+                <!--The description of the project goes here.-->
+            </p>
+        </a>
+    </li>
+	<li>
+        <a href="/projects/cakes/">
+            <h2>Structural Supports for Cakes</h2>
+			<img src="/assets/images/projects/cakes/dinosaur_cake.JPG" height="130" alt="alt text">
             <p>
                 <!--The description of the project goes here.-->
             </p>
