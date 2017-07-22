@@ -55,5 +55,9 @@
         text-align: center;
         flex-grow: 1;
         margin: 0 10px 20px 10px;
+
+        img {
+            box-shadow: 0 0 5px #333;
+        }
     }
 }
