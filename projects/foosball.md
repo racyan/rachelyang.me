@@ -6,7 +6,7 @@ permalink: /projects/foosball/
 
 <h3> Relevant skills: Autodesk Inventor, laser cutting, 3D printing, basic machining </h3>
 
-<img src="/assets/images/projects/foosball/foosball_cad.PNG" width="200" class="left" alt="alt text">
+<img src="/assets/images/projects/foosball/foosball_isometric_height200px.jpg" width="200" class="left" alt="alt text">
 
 I designed and built a two-player tabletop foosball table, measuring 23" x 14" x 8.25". The table was designed for a 2-3-3-2 player set-up, with each team composed of five players. The goals are centered in the table, while the retrieval holes are shifted off-center to make it easier for players to retrieve the ball.
 
@@ -16,23 +16,15 @@ The table was designed in Autodesk Inventor. I then lasercut the table pieces ou
 
 <ul class="image-list">
     <li>
+        <a href="/assets/images/projects/foosball/foosball_isometric.jpeg">
+        <img src="/assets/images/projects/foosball/foosball_isometric_height200px.jpg" height="100" alt="alt text"></a>
+    </li>
+	<li>
         <a href="/assets/images/projects/foosball/foosball_top.jpeg">
-        <img src="/assets/images/projects/foosball/foosball_top.jpeg" height="100" alt="alt text"></a>
+        <img src="/assets/images/projects/foosball/foosball_top_height200px.jpg" height="100" alt="alt text"></a>
     </li>
     <li>
         <a href="/assets/images/projects/foosball/foosball_cad.PNG">
-        <img src="/assets/images/projects/foosball/foosball_cad.PNG" height="100" alt="alt text"></a>
+        <img src="/assets/images/projects/foosball/foosball_cad_height200px.png" height="100" alt="alt text"></a>
     </li>
-<!--    <li>
-        <a href="/assets/images/projects/amplifier/amplifier_picture.JPG">
-        <img src="/assets/images/projects/amplifier/amplifier_picture.JPG" height="100" alt="alt text"></a>
-    </li>
-    <li>
-        <a href="/assets/images/projects/amplifier/amplifier_picture.JPG">
-        <img src="/assets/images/projects/amplifier/amplifier_picture.JPG" height="100" alt="alt text"></a>
-    </li>
-    <li>
-        <a href="/assets/images/projects/amplifier/amplifier_picture.JPG">
-        <img src="/assets/images/projects/amplifier/amplifier_picture.JPG" height="100" alt="alt text"></a>
-    </li> -->
 </ul>
