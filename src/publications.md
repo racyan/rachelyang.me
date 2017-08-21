@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: default.html
 title: Publications
-permalink: /publications/
 publications_classes: active
 ---
 

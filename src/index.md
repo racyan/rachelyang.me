@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: default.html
 title: About Me
-permalink: /
 about_classes: active
 ---
 

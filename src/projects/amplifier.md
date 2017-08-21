@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: default.html
 title: Amplifier
-permalink: /projects/amplifier/
 ---
 
 <h3> Relevant skills: Autodesk Inventor, laser cutting, soldering </h3>

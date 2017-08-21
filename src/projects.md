@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: default.html
 title: Projects
-permalink: /projects/
 projects_classes: active
 ---
 

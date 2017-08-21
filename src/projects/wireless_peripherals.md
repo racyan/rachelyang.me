@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default.html
 title: Wireless Peripheral Data Protocol
 permalink: /projects/wireless_peripherals/
 ---
