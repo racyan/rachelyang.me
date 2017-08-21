@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-To get started with building and running this project, first install Node JS.
+To get started with building and running this project, first install node.js.
 Then, navigate into the project directory and run
 
     npm install .
