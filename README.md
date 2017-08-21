@@ -28,3 +28,11 @@ To serve the site from a local development server, run the following command:
 
 This will create a development server that automatically reloads the page when
 source files are changed a rebuilt.
+
+
+## Cleaning
+
+If you run into issues with the build, try cleaning it before building by
+running the following command:
+
+    npm run clean

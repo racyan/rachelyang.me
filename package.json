@@ -9,9 +9,11 @@
   "license": "MIT",
   "scripts": {
     "build": "node build.js",
-    "serve": "node build.js --serve"
+    "serve": "node build.js --serve",
+    "clean": "node clean.js"
   },
   "dependencies": {
+    "fs-extra": "^4.0.1",
     "handlebars": "^4.0.10",
     "metalsmith": "^2.3.0",
     "metalsmith-layouts": "^1.8.1",
