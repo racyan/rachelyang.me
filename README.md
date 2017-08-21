@@ -1,6 +1,16 @@
 # rachelyang.me
 
 
+## Getting Started
+
+To get started with building and running this project, first install Node JS.
+Then, navigate into the project directory and run
+
+    npm install .
+
+to install the dependencies.
+
+
 ## Building
 
 To build the site, run the following command:
