@@ -53,7 +53,7 @@ let ms = Metalsmith(__dirname)
     .frontmatter(false)
     .source('./src')
     .destination('./build')
-    .clean(true)
+    .clean(!serveMode)
     .use(log('Parsing frontmatter'))
     .use(frontmatter({
         namespace: 'page'
