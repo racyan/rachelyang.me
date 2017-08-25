@@ -8,13 +8,16 @@
   },
   "license": "MIT",
   "scripts": {
-    "build": "node build.js",
-    "serve": "node build.js --serve",
-    "clean": "node clean.js"
+    "build": "node scripts/build.js",
+    "serve": "node scripts/build.js --serve",
+    "clean": "node scripts/clean.js"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "debug": "^3.0.0",
     "fs-extra": "^4.0.1",
     "handlebars": "^4.0.10",
+    "jimp": "^0.2.28",
     "metalsmith": "^2.3.0",
     "metalsmith-layouts": "^1.8.1",
     "metalsmith-markdown": "^0.2.1",

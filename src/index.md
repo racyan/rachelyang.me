@@ -4,7 +4,7 @@ title: About Me
 about_classes: active
 ---
 
-<img src="/assets/images/about_me/headshot.jpg" width="200" class="left" alt="alt text">
+<img src="/assets/images/about_me/headshot.jpg" width="200" class="left" alt="alt text" thumbnail="width=200">
 
 Hi, my name is Rachel Yang. I am currently an undergraduate studying electrical engineering and computer science at MIT. My research interests include power magnetics and power electronics. In my free time, I enjoy being involved in many backstage aspects of theater productions, ranging from stage managing to producing to video designing. 
 

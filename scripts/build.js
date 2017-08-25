@@ -6,6 +6,7 @@ let markdown    = require('metalsmith-markdown');
 let permalinks  = require('metalsmith-permalinks');
 let sass        = require('metalsmith-sass');
 let start       = require('metalsmith-start');
+let thumbnailer = require('./thumbnailer.js');
 
 handlebars.registerHelper('currentYear', function () {
     return (new Date()).getFullYear();
@@ -44,7 +45,7 @@ function log(message) {
     }
 }
 
-let ms = Metalsmith(__dirname)
+let ms = Metalsmith(__dirname + '/..')
     .metadata({
         site: {
             title: 'Rachel Yang'
@@ -61,23 +62,29 @@ let ms = Metalsmith(__dirname)
     .use(denamespace('page', ['layout']))
     .use(log('Compiling markdown'))
     .use(markdown())
+    .use(log('Thumbnailing images'))
+    .use(thumbnailer())
     .use(log('Building permalinks'))
-    .use(permalinks())
+    .use(permalinks({
+        relative: false
+    }))
     .use(log('Applying layouts'))
     .use(layouts({
         engine: 'handlebars'
     }))
-    .use(log('Complining sass'))
+    .use(log('Compiling sass'))
     .use(sass({
-        includePaths: [__dirname + '/sass_includes']
-    }))
-    .use(log('Build completed'));
+        includePaths: [__dirname + '/../sass_includes']
+    }));
 
 if (serveMode) {
     let runner = new start.Runner(ms);
     runner.start();
 } else {
+    let start = Date.now();
     ms.build(function(err, files) {
         if (err) { throw err; }
+        let end = Date.now();
+        console.log(`Build succeeded in ${end - start}ms`);
     });
 }

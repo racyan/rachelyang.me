@@ -6,7 +6,7 @@ permalink: /projects/wireless_peripherals/
 
 <h3> Relevant skills: Arduino, FPGA, Verilog, Bluetooth, I2C </h3>
 
-<img src="/assets/images/projects/wireless_peripherals/wireless-peripherals_schematic_height200px.png" width="200" class="left" alt="alt text">
+<img src="/assets/images/projects/wireless_peripherals/wireless-peripherals_schematic.PNG" width="200" class="left" alt="alt text" thumbnail="width=200">
 
 This project created a data communication protocol for sending inertial measurement unit (IMU) data, i.e. gyroscope and accelerometer data, and button input data over Bluetooth to an FPGA, where the data could then be used in other digital applications.
 
@@ -23,14 +23,14 @@ A block diagram of this system is included in the thumbnails below.
 <ul class="image-list">
     <li>
         <a href="/assets/images/projects/wireless_peripherals/wireless-peripherals_block-diagram.PNG">
-        <img src="/assets/images/projects/wireless_peripherals/wireless-peripherals_block-diagram_height200px.png" height="100" alt="alt text"></a>
+        <img src="/assets/images/projects/wireless_peripherals/wireless-peripherals_block-diagram.PNG" height="100" alt="alt text" thumbnail="height=100"></a>
     </li>
     <li>
         <a href="/assets/images/projects/wireless_peripherals/wireless-peripherals_schematic.PNG">
-        <img src="/assets/images/projects/wireless_peripherals/wireless-peripherals_schematic_height200px.png" height="100" alt="alt text"></a>
+        <img src="/assets/images/projects/wireless_peripherals/wireless-peripherals_schematic.PNG" height="100" alt="alt text" thumbnail="height=100"></a>
     </li>
     <li>
         <a href="/assets/images/projects/wireless_peripherals/wireless-peripherals_picture.jpg">
-        <img src="/assets/images/projects/wireless_peripherals/wireless-peripherals_picture_height200px.jpg" height="100" alt="alt text"></a>
+        <img src="/assets/images/projects/wireless_peripherals/wireless-peripherals_picture.jpg" height="100" alt="alt text" thumbnail="height=100"></a>
     </li>
 </ul>

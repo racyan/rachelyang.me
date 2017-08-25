@@ -6,7 +6,7 @@ permalink: /projects/temp_sensor/
 
 <h3> Relevant skills: LTSpice, Eagle (schematic capture and board layout), Arduino </h3>
 
-<img src="/assets/images/projects/temp_sensor/temp-sensor_board_height200px.jpg" width="200" class="left" alt="alt text">
+<img src="/assets/images/projects/temp_sensor/temp-sensor_board.jpg" width="200" class="left" alt="alt text" thumbnail="width=200">
 
 I designed and built a temperature sensor, with a range from 25 to 100 degrees Celsius, that used a proportional-to-absolute-temperature (PTAT) current source. To convert the analog current measurements into digital measurements, I also designed and built a dual-slope analog-to-digital converter (ADC). These digital measurements were then read by an Arduino nano, which then converted the data into temperature and displayed the measured temperature via  serial port on a PC. 
 
@@ -19,18 +19,18 @@ Eagle CAD and gerber files for the project can be found on [GitHub](https://gith
 <ul class="image-list">
     <li>
         <a href="/assets/images/projects/temp_sensor/temp-sensor_schematic.png">
-        <img src="/assets/images/projects/temp_sensor/temp-sensor_schematic_height200px.png" height="100" alt="alt text"></a>
+        <img src="/assets/images/projects/temp_sensor/temp-sensor_schematic.png" height="100" alt="alt text" thumbnail="height=100"></a>
     </li>
     <li>
         <a href="/assets/images/projects/temp_sensor/temp-sensor_layout.png">
-        <img src="/assets/images/projects/temp_sensor/temp-sensor_layout_height200px.png" height="100" alt="alt text"></a>
+        <img src="/assets/images/projects/temp_sensor/temp-sensor_layout.png" height="100" alt="alt text" thumbnail="height=100"></a>
     </li>
 	<li>
         <a href="/assets/images/projects/temp_sensor/temp-sensor_board.jpg">
-        <img src="/assets/images/projects/temp_sensor/temp-sensor_board_height200px.jpg" height="100" alt="alt text"></a>
+        <img src="/assets/images/projects/temp_sensor/temp-sensor_board.jpg" height="100" alt="alt text" thumbnail="height=100"></a>
     </li>
     <li>
         <a href="/assets/images/projects/temp_sensor/temp-sensor_data.png">
-        <img src="/assets/images/projects/temp_sensor/temp-sensor_data_height200px.png" height="100" alt="alt text"></a>
+        <img src="/assets/images/projects/temp_sensor/temp-sensor_data.png" height="100" alt="alt text" thumbnail="height=100"></a>
     </li>
 </ul>
