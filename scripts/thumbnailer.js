@@ -1,78 +1,68 @@
 let cheerio = require('cheerio');
 let debug   = require('debug')('thumbnailer');
-let fs      = require('fs');
-let jimp    = require('jimp');
+let fs      = require('fs-extra');
 let path    = require('path');
+let sharp   = require('sharp');
 
 function build(files, metalsmith, done) {
-    let filePromises = Object.keys(files).map(function (fileName) {
-        return new Promise(function (resolve, reject) {
-            processFile(resolve, reject, files, metalsmith, fileName);
-        });
-    });
-    Promise.all(filePromises)
-        .then(() => done())
-        .catch(err => console.error('build error: ' + err));
+    buildAsync(files, metalsmith)
+        .then(done)
+        .catch(err => console.error(err));
 }
 
-function processFile(resolve, reject, files, metalsmith, fileName) {
+async function buildAsync(files, metalsmith) {
+    let fileNames = Object.keys(files);
+    for (let i in Object.keys(files)) {
+        let fileName = fileNames[i];
+        await processFile(files, metalsmith, fileName);
+    }
+}
+
+async function processFile(files, metalsmith, fileName) {
     if (path.extname(fileName) !== '.html') {
-        resolve();
         return;
     }
 
     let file = files[fileName];
     let $ = cheerio.load(file.contents.toString());
-    let images = $('img');
-    let imagePromises = images.map(function () {
-        let image = $(this);
-        return new Promise(function (resolve, reject) {
-            processImage(resolve, reject, metalsmith, fileName, image);
-        });
-    }).get();
-    Promise.all(imagePromises)
-        .then(function () {
-            file.contents = new Buffer($.html());
-            resolve();
-        })
-        .catch(err => console.error(err));
+    let images = $('img').get().map(img => $(img));
+
+    for (let i in images) {
+        await processImage(metalsmith, fileName, images[i]);
+    }
 }
 
-function processImage(resolve, reject, metalsmith, fileName, imgElement) {
+async function processImage(metalsmith, fileName, imgElement) {
     let resizeSpec = imgElement.attr('thumbnail');
     imgElement.removeAttr('thumbnail');
     if (!resizeSpec) {
-        resolve();
         return;
     }
 
     let newHeight, newWidth;
     let parts = resizeSpec.split('=');
     if (parts.length < 2) {
-        reject(`Invalid thumbnail spec "${resizeSpec}" in file "${fileName}"`);
-        return;
+        throw new Error(`Invalid thumbnail spec "${resizeSpec}" in file "${fileName}"`);
     }
 
     let dimension = parts[0];
     let size = parts[1];
     if (dimension !== 'height' && dimension !== 'width') {
-        reject(`Invalid dimension "${dimension}" in file "${fileName}"`);
-        return;
+        throw new Error(`Invalid dimension "${dimension}" in file "${fileName}"`);
     }
 
     let sizeInt = parseInt(size, 10);
     if (!sizeInt) {
-        reject(`Invalid size "${size}" in file "${fileName}"`);
-        return;
+        throw new Error(`Invalid size "${size}" in file "${fileName}"`);
     }
 
     switch (dimension) {
         case 'height':
             newHeight = sizeInt;
-            newWidth = jimp.AUTO;
+            newWidth = null;
             break;
         case 'width':
-            newHeight = jimp.AUTO;
+            newHeight = null;
             newWidth = sizeInt;
             break;
     }
@@ -84,41 +74,29 @@ function processImage(resolve, reject, metalsmith, fileName, imgElement) {
     }
 
     let src = path.resolve(metalsmith.source(), imgSrc);
-    jimp.read(src, function (err, img) {
-        if (err) {
-            resolve();
+    let img = sharp(src).resize(newHeight, newWidth);
+    let metadata = await img.metadata();
+
+    let folderPath = path.dirname(imgSrc);
+    let extension = path.extname(imgSrc);
+    let imgFileName = path.basename(imgSrc, extension);
+    let outDimensions = `${metadata.height}x${metadata.width}`;
+    let newRelativePath = `${folderPath}/${imgFileName}_${outDimensions}${extension}`;
+    imgElement.attr('src', `/${newRelativePath}`);
+
+    let newAbsolutePath = path.resolve(metalsmith.destination(), newRelativePath);
+    try {
+        let stats = fs.statSync(newAbsolutePath);
+        if (stats.isFile()) {
             return;
         }
+    } catch (e) {}
 
-        img.resize(newHeight, newWidth);
+    debug(`Resized ${src} to ${outDimensions}`);
 
-        let folderPath = path.dirname(imgSrc);
-        let extension = path.extname(imgSrc);
-        let imgFileName = path.basename(imgSrc, extension);
-        let outDimensions = `${img.bitmap.height}x${img.bitmap.width}`;
-        let newRelativePath = `${folderPath}/${imgFileName}_${outDimensions}${extension}`;
-        imgElement.attr('src', `/${newRelativePath}`);
-
-        let newAbsolutePath = path.resolve(metalsmith.destination(), newRelativePath);
-        try {
-            let stats = fs.statSync(newAbsolutePath);
-            if (stats.isFile()) {
-                resolve();
-                return;
-            }
-        } catch (e) {}
-
-        debug(`Resized ${src} to ${outDimensions}`);
-
-        img.write(newAbsolutePath, function (err) {
-            if (err) {
-                reject(err);
-                return;
-            }
-
-            resolve();
-        });
-    });
+    let newFolder = path.dirname(newAbsolutePath);
+    await fs.ensureDir(newFolder);
+    await img.toFile(newAbsolutePath);
 }
 
 module.exports = function thumnailer() {

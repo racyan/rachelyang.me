@@ -12,7 +12,7 @@ The first cake I designed structural supports for was a fairly standard three-ti
 
 <div class="clear"></div>
 
-<img src="/assets/images/projects/cakes/dinosaur_cake.JPG" width="200" class="left" alt="alt text">
+<img src="/assets/images/projects/cakes/dinosaur_cake.JPG" width="200" class="left" alt="alt text" thumbnail="width=200">
 
 The second cake I designed supports for was a T. rex made out of rice krispies. I designed an internal support structure made out of wood and laser cut the pieces. The joints were designed to press fit together so that no adhesive was needed. In addition, there were wooden blocks embedded in the cake pieces underneath the T. rex's feet and tail to support the weight and prevent the T. rex from crushing the cake.
 
