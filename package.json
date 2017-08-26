@@ -24,6 +24,7 @@
     "metalsmith-matters": "^1.2.0",
     "metalsmith-permalinks": "^0.5.0",
     "metalsmith-sass": "^1.4.0",
-    "metalsmith-start": "^2.0.1"
+    "metalsmith-start": "^2.0.1",
+    "metalsmith-static": "0.0.5"
   }
 }

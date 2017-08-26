@@ -6,6 +6,7 @@ let markdown    = require('metalsmith-markdown');
 let permalinks  = require('metalsmith-permalinks');
 let sass        = require('metalsmith-sass');
 let start       = require('metalsmith-start');
+let static      = require('metalsmith-static');
 let thumbnailer = require('./thumbnailer.js');
 
 handlebars.registerHelper('currentYear', function () {
@@ -54,7 +55,13 @@ let ms = Metalsmith(__dirname + '/..')
     .frontmatter(false)
     .source('./src')
     .destination('./build')
+    .ignore('**/assets/images/*')
     .clean(!serveMode)
+    .use(log('Copying static assets'))
+    .use(static({
+        src: './src/assets',
+        dest: './assets'
+    }))
     .use(log('Parsing frontmatter'))
     .use(frontmatter({
         namespace: 'page'
