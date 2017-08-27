@@ -30,6 +30,8 @@ async function processFile(files, metalsmith, fileName) {
     for (let i in images) {
         await processImage(metalsmith, fileName, images[i]);
     }
+
+    file.contents = new Buffer($.html());
 }
 
 async function processImage(metalsmith, fileName, imgElement) {
@@ -75,12 +77,12 @@ async function processImage(metalsmith, fileName, imgElement) {
 
     let src = path.resolve(metalsmith.source(), imgSrc);
     let img = sharp(src).resize(newHeight, newWidth);
-    let metadata = await img.metadata();
+    let writtenInfo = await img.toBuffer({resolveWithObject: true});
 
     let folderPath = path.dirname(imgSrc);
     let extension = path.extname(imgSrc);
     let imgFileName = path.basename(imgSrc, extension);
-    let outDimensions = `${metadata.height}x${metadata.width}`;
+    let outDimensions = `${writtenInfo.info.height}x${writtenInfo.info.width}`;
     let newRelativePath = `${folderPath}/${imgFileName}_${outDimensions}${extension}`;
     imgElement.attr('src', `/${newRelativePath}`);
 
@@ -96,7 +98,7 @@ async function processImage(metalsmith, fileName, imgElement) {
 
     let newFolder = path.dirname(newAbsolutePath);
     await fs.ensureDir(newFolder);
-    await img.toFile(newAbsolutePath);
+    await fs.writeFile(newAbsolutePath, writtenInfo.data);
 }
 
 module.exports = function thumnailer() {
