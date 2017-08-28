@@ -3,8 +3,12 @@
 
 ## Getting Started
 
-To get started with building and running this project, first install node.js.
-Then, navigate into the project directory and run
+To get started with building and running this project, first install node.js
+from https://nodejs.org.
+
+Then install GraphicsMagick from http://www.graphicsmagick.org.
+
+Navigate into the project directory and run
 
     npm install .
 

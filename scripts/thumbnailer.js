@@ -1,8 +1,8 @@
 let cheerio = require('cheerio');
 let debug   = require('debug')('thumbnailer');
 let fs      = require('fs-extra');
+let gm      = require('gm');
 let path    = require('path');
-let sharp   = require('sharp');
 
 function build(files, metalsmith, done) {
     buildAsync(files, metalsmith)
@@ -76,13 +76,27 @@ async function processImage(metalsmith, fileName, imgElement) {
     }
 
     let src = path.resolve(metalsmith.source(), imgSrc);
-    let img = sharp(src).resize(newHeight, newWidth);
-    let writtenInfo = await img.toBuffer({resolveWithObject: true});
+    let img = gm(src).resize(newWidth, newHeight);
+
+    let resizedData = await new Promise(function (resolve, reject) {
+        img.toBuffer(function (err, buffer) {
+            if (err) reject(err);
+            resolve(buffer);
+        });
+    });
+
+    let newImg = gm(resizedData);
+    let newSize = await new Promise(function (resolve, reject) {
+        newImg.size(function (err, value) {
+            if (err) reject(err);
+            resolve(value);
+        });
+    });
 
     let folderPath = path.dirname(imgSrc);
     let extension = path.extname(imgSrc);
     let imgFileName = path.basename(imgSrc, extension);
-    let outDimensions = `${writtenInfo.info.height}x${writtenInfo.info.width}`;
+    let outDimensions = `${newSize.height}x${newSize.width}`;
     let newRelativePath = `${folderPath}/${imgFileName}_${outDimensions}${extension}`;
     imgElement.attr('src', `/${newRelativePath}`);
 
@@ -98,7 +112,7 @@ async function processImage(metalsmith, fileName, imgElement) {
 
     let newFolder = path.dirname(newAbsolutePath);
     await fs.ensureDir(newFolder);
-    await fs.writeFile(newAbsolutePath, writtenInfo.data);
+    await fs.writeFile(newAbsolutePath, resizedData);
 }
 
 module.exports = function thumnailer() {
