@@ -12,27 +12,40 @@ _SCFG Live!_ broadcasts live on Fridays at 4p ET on [Facebook Live](https://www.
 
 <!-- The show is rebroadcasted on the following networks: BNN News (Boston Neighborhood Network), Somerville Media Center – SMC, CCTV Cambridge News, Lawrence Community Access TV, Brookline Interactive Group, and LTC Lowell. -->
 
-Below is a sample of episodes on which Rachel has been the **main writer**.
+Rachel has been the **main writer** on the following episodes (click arrow to expand for video):
+
+<!-- Note to self: [original width=560, height=315], [scaled width=448, height=252] -->
+
+<!-- S2E03 | Brrr! Staying Warm with Arctic Animals -->
+<details>
+<summary>S2E03 | Brrr! Staying Warm with Arctic Animals</summary>
+</details>
 
 <!-- Sweet Sweet Science (S1E25) -->
-<iframe style="display: block; margin: auto;" width="448" height="252" src="https://www.youtube.com/embed/Juy8tZl_WQU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<p style="font-size:1.1em"> </p>
+<details>
+<summary>S1E25 | Sweet Sweet Science! (Season 1 Finale)</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/Juy8tZl_WQU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
 
 <!-- It's Electric (S1E23) -->
-<iframe style="display: block; margin: auto;" width="448" height="252" src="https://www.youtube.com/embed/_xJVE868jy4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<p style="font-size:1.1em"> </p>
+<details>
+<summary>S1E23 | It's Electric!</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/_xJVE868jy4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
 
 <!-- Augmented Reality (S1E21) -->
-<iframe style="display: block; margin: auto;" width="448" height="252" src="https://www.youtube.com/embed/vVyB_UVo61Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<details>
+<summary>S1E21 | Making the World Fun with Augmented Reality</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/vVyB_UVo61Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
 
-<p style="font-size:1.1em"> </p>
+<!-- It's Smelly (S1E19) -->
+<details>
+<summary>S1E19 | It's Smelly!</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/99lZEh0tBtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
 
-<!-- It's Smelly (S1E19) [original width=560, height=315] -->
-<iframe style="display: block; margin: auto;" width="448" height="252" src="https://www.youtube.com/embed/99lZEh0tBtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Here is the full list of episodes on which Rachel has been the main writer:
+<!-- Here is the full list of episodes on which Rachel has been the main writer:
 
 &emsp;S2E03 Brrr! Staying Warm with Arctic Animals
 
@@ -42,15 +55,7 @@ Here is the full list of episodes on which Rachel has been the main writer:
 
 &emsp;S1E21 [Making the World Fun with Augmented Reality](https://www.youtube.com/embed/vVyB_UVo61Q)
 
-&emsp;S1E19 [It's Smelly!](https://www.youtube.com/embed/99lZEh0tBtI)
-
-<!-- A playlist of all SCFGLive episodes can be found below. -->
-
-<!-- ONLY LINKS TO ONE EPISODE, NOT PLAYLIST -->
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Vw58Z_-vXBQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
-<!--This is sample home page content. If you want to include links, they look like
-this: [I am a link](https://www.google.com).-->
+&emsp;S1E19 [It's Smelly!](https://www.youtube.com/embed/99lZEh0tBtI) -->
 
 <p style="font-size:2em"> </p>
 
@@ -60,9 +65,11 @@ _Synopsis:_ Freshman Daisy arrives at MIT eager for the college experience. With
 
 **Commissioned** by MIT Alcohol & Other Drugs Services (AODS) for MIT's Freshman Orientation in 2019.
 
+<p style="font-size:2em"> </p>
+
 ## Tactless
 
-_Synopsis:_ In a society where people use Tacts to communicate and interact with the world, Callie struggles to live without them. While everyone else discriminates against Callie for being Tactless, her best friend Quinn is always there for her. But when Callie is finally given the opportunity to get Tacts, tragedy befalls Quinn. Now, she must decide whether to put her own needs before her friend's. A **one-act play** about the give-and-take in relationships.
+_Synopsis:_ In a society where people use Tacts to communicate and interact with the world, Callie struggles to live without them. While everyone else discriminates against Callie for being Tactless, her best friend Quinn keeps life beareable. But when Callie is finally given the opportunity to get Tacts, tragedy befalls Quinn. Now, she must decide whether to put her own needs before her friend's. A **one-act play** about the give-and-take in relationships.
 
 Developed through the MIT Theater Arts Playwrights' Lab.
 
