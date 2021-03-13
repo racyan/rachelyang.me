@@ -31,7 +31,7 @@ async function processFile(files, metalsmith, fileName) {
         await processImage(metalsmith, fileName, images[i]);
     }
 
-    file.contents = new Buffer($.html());
+    file.contents = Buffer.from($.html());
 }
 
 async function processImage(metalsmith, fileName, imgElement) {
