@@ -1,9 +1,8 @@
+/***********
+ * Colors *
+ ***********/
 $black: #000000;
 $white: #FFFFFF;
-
-$font: 'Verdana', sans-serif;
-$sectionHeaderTopMargin: 1.5em;
-$researchListItemSize: 0.9em;
 
 $themeDarkestRed: #250000;
 $themeDarkRed: #490000;
@@ -13,12 +12,37 @@ $themeLightestRed: #B83535;
 
 $themeLightestRedComplement: #35b8b8;
 
+
+/********************
+ * Site-wide styles *
+ ********************/
+$font: 'Verdana', sans-serif;
 $siteWidth: 900px;
 
-$footerTopMargin: 2em;
+$sectionHeaderTopMargin: 1.5em;
+
+
+/**********
+ * Header *
+ **********/
+$headerTitleFontSize: 2em;
+$headerNavFontSize: 1.25em;
+$headerBottomMargin: 1.5em;
+
+
+/**********
+ * Footer *
+ **********/
+$footerTopMargin: 1.5em;
 $footerTopPadding: 1em;
 $footerColumnMarginBetween: 2em;
 $footerMobileBreakpoint: 460px;
 $footerMobileMiddleColumnTopMargin: 0.75em;
 $footerListElementMarginBetween: 0.5em;
 $footerListLinkImageHeight: 1.5em;
+
+
+/*****************
+ * Research page *
+ *****************/
+$researchListItemSize: 0.9em;
