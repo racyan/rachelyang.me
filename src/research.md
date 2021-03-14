@@ -5,7 +5,7 @@ research_classes: active
 section_classes: research
 ---
 
-<img src="/assets/images/research/MP_prototypes.png" style="display: block; margin: auto;" width="400" alt="inductor prototypes" thumbnail="width=400">
+<img src="/assets/images/research/MP_prototypes.jpg" style="display: block; margin: auto;" width="400" alt="inductor prototypes">
 
 Rachel's research interests are in magnetics design and modeling, particularly for high-frequency power applications. She is currently a graduate student researcher at MIT in Prof. David Perreault's [Power Electronics Research Group](https://www.rle.mit.edu/per/).
 

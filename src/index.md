@@ -4,7 +4,7 @@ title: About
 about_classes: active
 ---
 
-<img src="/assets/images/about_me/headshot.jpg" width="200" class="left" alt="headshot" thumbnail="width=200">
+<img src="/assets/images/about_me/headshot.jpg" width="200" class="left" alt="headshot">
 
 Rachel Yang is an electrical engineer, researcher, writer, and science communicator. 
 
