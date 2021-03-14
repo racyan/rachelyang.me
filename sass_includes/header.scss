@@ -49,8 +49,12 @@ header {
 
                 &:not(:last-child) {
                     margin-right: 10px;
-                    padding-right: 15px;
-                    border-right: 1px solid $black;
+
+                    &::after {
+                        content: ' ';
+                        border-right: 1px solid $black;
+                        padding-right: 15px;
+                    }
                 }
             }
         }
