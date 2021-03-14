@@ -2,6 +2,7 @@
 layout: default.html
 title: About
 about_classes: active
+hide_title: true
 ---
 
 <img src="/assets/images/about_me/headshot.jpg" width="200" class="left" alt="headshot">
