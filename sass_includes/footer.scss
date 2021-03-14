@@ -1,6 +1,4 @@
 footer {
-}
-footer {
     max-width: $siteWidth;
     margin: 40px auto 0;
     border-top: 1px solid $black;
@@ -8,7 +6,6 @@ footer {
     justify-content: space-between;
     flex-wrap: wrap;
     padding-top: $footerTopPadding;
-    font-family: 'Verdana', sans-serif;
     font-size: 0.8em;
 
     div {
@@ -61,4 +58,3 @@ footer {
         }
     }
 }
-

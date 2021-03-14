@@ -12,13 +12,14 @@ _SCFG Live!_ broadcasts live on Fridays at 4p ET on [Facebook Live](https://www.
 
 <!-- The show is rebroadcasted on the following networks: BNN News (Boston Neighborhood Network), Somerville Media Center – SMC, CCTV Cambridge News, Lawrence Community Access TV, Brookline Interactive Group, and LTC Lowell. -->
 
-Rachel has been the **main writer** on the following episodes (click arrow to expand for video):
+Rachel has been the **main writer** on the following episodes (click to expand for video):
 
 <!-- Note to self: [original width=560, height=315], [scaled width=448, height=252] -->
 
 <!-- S2E03 | Brrr! Staying Warm with Arctic Animals -->
 <details>
 <summary>S2E03 | Brrr! Staying Warm with Arctic Animals</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/8N0V3Pih6as" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
 <!-- Sweet Sweet Science (S1E25) -->
@@ -45,27 +46,11 @@ Rachel has been the **main writer** on the following episodes (click arrow to ex
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/99lZEh0tBtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
-<!-- Here is the full list of episodes on which Rachel has been the main writer:
-
-&emsp;S2E03 Brrr! Staying Warm with Arctic Animals
-
-&emsp;S1E25 [Sweet Sweet Science!](https://www.youtube.com/embed/Juy8tZl_WQU) (Season 1 Finale)
-
-&emsp;S1E23 [It's Electric!](https://www.youtube.com/embed/_xJVE868jy4)
-
-&emsp;S1E21 [Making the World Fun with Augmented Reality](https://www.youtube.com/embed/vVyB_UVo61Q)
-
-&emsp;S1E19 [It's Smelly!](https://www.youtube.com/embed/99lZEh0tBtI) -->
-
-<p style="font-size:2em"> </p>
-
 ## MIT Tech Theatre: Frosh Part 1
 
 _Synopsis:_ Freshman Daisy arrives at MIT eager for the college experience. With her new friends Charlotte and Steven, Daisy tries to survive her overwhelming class load, look cool in front of her crush, and make a few bucks putting together videos on alcohol and drug awareness. But as the pressure to do well in school and maintain a social life builds, one of them looks to substances for comfort, and the trio's friendship becomes strained. A **one-act play** about freshman friends navigating their first semester in college through laughter and tears, trying to handle relationship and friendship troubles admist the complexities of alcohol and drug use.
 
 **Commissioned** by MIT Alcohol & Other Drugs Services (AODS) for MIT's Freshman Orientation in 2019.
-
-<p style="font-size:2em"> </p>
 
 ## Tactless
 
@@ -74,5 +59,3 @@ _Synopsis:_ In a society where people use Tacts to communicate and interact with
 Developed through the MIT Theater Arts Playwrights' Lab.
 
 **Awarded** the [Boit Manuscript Prize](https://cmsw.mit.edu/publications/ilona-karmel-writing-prizes/) in Drama in 2018.
-
-<div class="clear"></div>

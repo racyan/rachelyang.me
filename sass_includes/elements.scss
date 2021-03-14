@@ -1,12 +1,13 @@
-h1, h2, h3, h4, h5, h6 {
-    // font-family: 'Orbitron', sans-serif;
-    font-family: 'Verdana', sans-serif;
+body {
+    font-family: $font;
 }
 
 section {
-    font-family: 'Verdana', sans-serif;
+    overflow: hidden;
+
     h2 {
         font-size: 1.25em;
+        margin-top: $sectionHeaderTopMargin;
     }
 
     h3 {
@@ -16,7 +17,6 @@ section {
 
 a {
     color: $themeLightestRed;
-    font-family: 'Verdana', sans-serif;
 
     &:visited {
         color: $themeRed;
@@ -32,11 +32,19 @@ a {
     }
 }
 
+details {
+    margin-top: 0.75em;
+
+    & > summary {
+        cursor: pointer;
+        color: $themeLightestRed;
+        // text-decoration: underline;
+        padding: 0.25em;
+        margin-bottom: 0.5em;
+    }
+}
+
 .left {
     float: left;
     margin: 0 20px 5px 0;
-}
-
-.clear {
-    clear: both;
 }
