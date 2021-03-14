@@ -1,0 +1,9 @@
+.about-page {
+    img:first-child {
+        @media (max-width: $aboutImgMobileBreakpoint) {
+            float: none;
+            display: block;
+            margin: 0 auto;
+        }
+    }
+}

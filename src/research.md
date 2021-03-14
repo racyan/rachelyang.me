@@ -2,7 +2,7 @@
 layout: default.html
 title: Research
 research_classes: active
-section_classes: research
+section_classes: research-page
 ---
 
 <img src="/assets/images/research/MP_prototypes.jpg" style="display: block; margin: auto;" width="400" alt="inductor prototypes">

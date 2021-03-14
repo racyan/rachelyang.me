@@ -1,9 +1,11 @@
-ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-}
+.research-page {
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
 
-li {
-    font-size: $researchListItemSize;
+    li {
+        font-size: $researchListItemSize;
+    }
 }
