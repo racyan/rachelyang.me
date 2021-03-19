@@ -48,7 +48,7 @@ Rachel has been the **main writer** on the following episodes (click to expand f
 
 ## MIT Tech Theatre: Frosh Part 1
 
-_Synopsis:_ Freshman Daisy arrives at MIT eager for the college experience. With her new friends Charlotte and Steven, Daisy tries to survive her overwhelming class load, look cool in front of her crush, and make a few bucks putting together videos on alcohol and drug awareness. But as the pressure to do well in school and maintain a social life builds, one of them looks to substances for comfort, and the trio's friendship becomes strained. A **one-act play** about freshman friends navigating their first semester in college through laughter and tears, trying to handle relationship and friendship troubles admist the complexities of alcohol and drug use.
+_Synopsis:_ Freshman Daisy arrives at MIT eager for the college experience. With her new friends Charlotte and Steven, Daisy tries to survive her overwhelming class load, look cool in front of her crush, and make a few bucks putting together videos on alcohol and drug awareness. But as the pressure to do well in school and maintain a social life builds, one of them looks to substances for comfort, and the trio's friendship becomes strained. A **one-act play** about freshman friends navigating their first semester in college through laughter and tears, trying to handle relationship and friendship troubles amidst the complexities of alcohol and drug use.
 
 **Commissioned** by MIT Alcohol & Other Drugs Services (AODS) for MIT's Freshman Orientation in 2019.
 
