@@ -54,7 +54,7 @@ _Synopsis:_ Freshman Daisy arrives at MIT eager for the college experience. With
 
 ## Tactless
 
-_Synopsis:_ In a society where people use Tacts to communicate and interact with the world, Callie struggles to live without them. While everyone else discriminates against Callie for being Tactless, her best friend Quinn keeps life beareable. But when Callie is finally given the opportunity to get Tacts, tragedy befalls Quinn. Now, she must decide whether to put her own needs before her friend's. A **one-act play** about the give-and-take in relationships.
+_Synopsis:_ In a society where people use Tacts to communicate and interact with the world, Callie struggles to live without them. While everyone else discriminates against Callie for being Tactless, her best friend Quinn keeps life bearable. But when Callie is finally given the opportunity to get Tacts, tragedy befalls Quinn. Now, she must decide whether to put her own needs before her friend's. A **one-act play** about the give-and-take in relationships.
 
 Developed through the MIT Theater Arts Playwrights' Lab.
 
