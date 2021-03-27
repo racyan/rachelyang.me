@@ -2,6 +2,7 @@
 layout: default.html
 title: Writing
 writing_classes: active
+section_classes: writing-page
 ---
 
 ## Science Club for Girls Live! (SCFG Live!)
