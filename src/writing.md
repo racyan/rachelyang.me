@@ -9,13 +9,19 @@ section_classes: writing-page
 
 Rachel is currently a **script writer** for [_SCFG Live!_](https://www.scienceclubforgirls.org/scfglive), a live weekly educational STEM show for kids (K-5), hosted by [Science Club for Girls](https://www.scienceclubforgirls.org/about-scfg). Shows are typically 20-30 minutes long. 
 
-_SCFG Live!_ broadcasts live on Fridays at 4p ET on [Facebook Live](https://www.facebook.com/pg/SCFGFan) and [YouTube Live](https://www.youtube.com/playlist?list=PLKMslSo-8aFq_N_NI7QIkv7Mpq_UwaXDF). The show is then rebroadcasted on local TV networks in Boston, Cambridge, Lowell, Lawrence, Somerville, and Brookline. To date, _SCFG Live!_ has had **over 35,600 views**.
+_SCFG Live!_ broadcasts live on Fridays at 4p ET on [Facebook Live](https://www.facebook.com/pg/SCFGFan) and [YouTube Live](https://www.youtube.com/playlist?list=PLKMslSo-8aFq_N_NI7QIkv7Mpq_UwaXDF). The show is then rebroadcasted on local TV networks in Boston, Cambridge, Lowell, Lawrence, Somerville, and Brookline. Episodes are also available on-demand on Comcast Xfinity. To date, _SCFG Live!_ has had **over 60,000 views**.
 
 <!-- The show is rebroadcasted on the following networks: BNN News (Boston Neighborhood Network), Somerville Media Center – SMC, CCTV Cambridge News, Lawrence Community Access TV, Brookline Interactive Group, and LTC Lowell. -->
 
 Rachel has been the **main writer** on the following episodes (click to expand for video):
 
 <!-- Note to self: [original width=560, height=315], [scaled width=448, height=252] -->
+
+<!-- S2E09 | Phase Changes! -->
+<details>
+<summary>S2E09 | Phase Changes!</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/33Llh2ksqSU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
 
 <!-- S2E03 | Brrr! Staying Warm with Arctic Animals -->
 <details>
@@ -47,7 +53,7 @@ Rachel has been the **main writer** on the following episodes (click to expand f
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/99lZEh0tBtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
-## MIT Tech Theatre: Frosh Part 1
+## MIT Tech Theater: Frosh Part 1
 
 _Synopsis:_ Freshman Daisy arrives at MIT eager for the college experience. With her new friends Charlotte and Steven, Daisy tries to survive her overwhelming class load, look cool in front of her crush, and make a few bucks putting together videos on alcohol and drug awareness. But as the pressure to do well in school and maintain a social life builds, one of them looks to substances for comfort, and the trio's friendship becomes strained. A **one-act play** about freshman friends navigating their first semester in college through laughter and tears, trying to handle relationship and friendship troubles amidst the complexities of alcohol and drug use.
 
