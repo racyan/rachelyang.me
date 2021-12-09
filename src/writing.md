@@ -53,6 +53,10 @@ Rachel has been the **main writer** on the following episodes (click to expand f
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/99lZEh0tBtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
+## Freelance Writing
+
+MIT News | [EECS Graduate Women’s Annual Research Summit Increases Research Visibility and Strengthens Community](https://news.mit.edu/2021/eecs-graduate-womens-research-summit-1208)
+
 ## MIT Tech Theater: Frosh Part 1
 
 _Synopsis:_ Freshman Daisy arrives at MIT eager for the college experience. With her new friends Charlotte and Steven, Daisy tries to survive her overwhelming class load, look cool in front of her crush, and make a few bucks putting together videos on alcohol and drug awareness. But as the pressure to do well in school and maintain a social life builds, one of them looks to substances for comfort, and the trio's friendship becomes strained. A **one-act play** about freshman friends navigating their first semester in college through laughter and tears, trying to handle relationship and friendship troubles amidst the complexities of alcohol and drug use.
