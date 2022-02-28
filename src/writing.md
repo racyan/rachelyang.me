@@ -5,11 +5,15 @@ writing_classes: active
 section_classes: writing-page
 ---
 
+## Freelance Writing
+
+MIT News | [EECS Graduate Women’s Annual Research Summit Increases Research Visibility and Strengthens Community](https://news.mit.edu/2021/eecs-graduate-womens-research-summit-1208)
+
 ## Science Club for Girls Live! (SCFG Live!)
 
-Rachel is currently a **script writer** for [_SCFG Live!_](https://www.scienceclubforgirls.org/scfglive), a live weekly educational STEM show for kids (K-5), hosted by [Science Club for Girls](https://www.scienceclubforgirls.org/about-scfg). Shows are typically 20-30 minutes long. 
+Rachel has been a **script writer** for [_SCFG Live!_](https://www.scienceclubforgirls.org/scfglive), a weekly live educational STEM show for kids (K-5), hosted by [Science Club for Girls](https://www.scienceclubforgirls.org/about-scfg). Shows are typically 20-30 minutes long. 
 
-_SCFG Live!_ broadcasts live on Fridays at 4p ET on [Facebook Live](https://www.facebook.com/pg/SCFGFan) and [YouTube Live](https://www.youtube.com/playlist?list=PLKMslSo-8aFq_N_NI7QIkv7Mpq_UwaXDF). The show is then rebroadcasted on local TV networks in Boston, Cambridge, Lowell, Lawrence, Somerville, and Brookline. Episodes are also available on-demand on Comcast Xfinity. To date, _SCFG Live!_ has had **over 60,000 views**.
+_SCFG Live!_ broadcasts live on [Facebook Live](https://www.facebook.com/pg/SCFGFan) and [YouTube Live](https://www.youtube.com/playlist?list=PLKMslSo-8aFq_N_NI7QIkv7Mpq_UwaXDF). The show is then rebroadcasted on local TV networks in Boston, Cambridge, Lowell, Lawrence, Somerville, and Brookline. Episodes are also available on-demand on Comcast Xfinity. 
 
 <!-- The show is rebroadcasted on the following networks: BNN News (Boston Neighborhood Network), Somerville Media Center – SMC, CCTV Cambridge News, Lawrence Community Access TV, Brookline Interactive Group, and LTC Lowell. -->
 
@@ -52,10 +56,6 @@ Rachel has been the **main writer** on the following episodes (click to expand f
 <summary>S1E19 | It's Smelly!</summary>
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/99lZEh0tBtI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
-
-## Freelance Writing
-
-MIT News | [EECS Graduate Women’s Annual Research Summit Increases Research Visibility and Strengthens Community](https://news.mit.edu/2021/eecs-graduate-womens-research-summit-1208)
 
 ## MIT Tech Theater: Frosh Part 1
 
