@@ -7,6 +7,8 @@ section_classes: writing-page
 
 ## Freelance Writing
 
+MIT EECS Thriving Stars | [Event: Career panel – “Oh, the things you’ll do! (with a PhD)”](https://www.eecs.mit.edu/community-equity/thriving-stars/event-career-panel-oh-the-things-youll-do-with-a-phd/)
+
 MIT EECS News | [MIT iQuHACK 2022: Bringing together the next generation of quantum coders](https://www.eecs.mit.edu/mit-iquhack-2022-bringing-together-the-next-generation-of-quantum-coders/)
 
 MIT News | [EECS Graduate Women’s Annual Research Summit Increases Research Visibility and Strengthens Community](https://news.mit.edu/2021/eecs-graduate-womens-research-summit-1208)

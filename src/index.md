@@ -10,7 +10,7 @@ section_classes: about-page
 
 Rachel Yang (she/her) is an electrical engineer, researcher, writer, and science communicator. 
 
-For research, Rachel works in power electronics, a field focused on making sure that anything that requires electricity gets the type of power it needs. Specifically, she works on magnetic components, which help convert power between different types by temporarily storing energy. She aims to make magnetics more efficient and smaller, and is generally interested in anything related to magnetism.
+For research, Rachel works in power electronics, a field focused on making sure that anything that requires electricity gets the type of power it needs. Specifically, she works on magnetic components that help convert power between different types by temporarily storing energy. She aims to make magnetics more efficient and smaller, and is generally interested in anything related to magnetism.
 
 On the writing and science communication side, Rachel is a freelance news writer. In the past, she has been a script writer for [_SCFG Live!_](https://www.scienceclubforgirls.org/scfglive), a weekly live educational STEM show for kids, hosted by the Science Club for Girls. She has also co-taught a science communication workshop series for graduate students at MIT. Rachel is interested in making STEM more accessible and getting people excited about science.
 
