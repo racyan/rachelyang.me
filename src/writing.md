@@ -5,7 +5,11 @@ writing_classes: active
 section_classes: writing-page
 ---
 
-## Freelance Writing
+## Freelance Science Writing
+
+MIT News | [Helping renewable energy projects succeed in local communities](https://news.mit.edu/2022/jungwoo-chun-renewable-energy-0612)
+
+MIT News | [An astrophysicist in a biomedical universe](https://news.mit.edu/2022/magdelena-allen-pet-scanner-0610)
 
 MIT EECS Thriving Stars | [Event: Career panel – “Oh, the things you’ll do! (with a PhD)”](https://www.eecs.mit.edu/community-equity/thriving-stars/event-career-panel-oh-the-things-youll-do-with-a-phd/)
 
@@ -15,13 +19,13 @@ MIT News | [EECS Graduate Women’s Annual Research Summit Increases Research Vi
 
 ## Science Club for Girls Live! (SCFG Live!)
 
-Rachel has been a **script writer** for [_SCFG Live!_](https://www.scienceclubforgirls.org/scfglive), a weekly live educational STEM show for kids (K-5), hosted by [Science Club for Girls](https://www.scienceclubforgirls.org/about-scfg). Shows are typically 20-30 minutes long. 
+Previously, Rachel was a **script writer** for [_SCFG Live!_](https://www.scienceclubforgirls.org/scfglive), an online STEM education show for kids (K-5), hosted by [Science Club for Girls](https://www.scienceclubforgirls.org/about-scfg). Episodes are typically 20-30 minutes long. 
 
-_SCFG Live!_ broadcasts live on [Facebook Live](https://www.facebook.com/pg/SCFGFan) and [YouTube Live](https://www.youtube.com/playlist?list=PLKMslSo-8aFq_N_NI7QIkv7Mpq_UwaXDF). The show is then rebroadcasted on local TV networks in Boston, Cambridge, Lowell, Lawrence, Somerville, and Brookline. Episodes are also available on-demand on Comcast Xfinity. 
+<!-- _SCFG Live!_ broadcasts live on [Facebook Live](https://www.facebook.com/pg/SCFGFan) and [YouTube Live](https://www.youtube.com/playlist?list=PLKMslSo-8aFq_N_NI7QIkv7Mpq_UwaXDF). The show is then rebroadcasted on local TV networks in Boston, Cambridge, Lowell, Lawrence, Somerville, and Brookline. Episodes are also available on-demand on Comcast Xfinity. -->
 
 <!-- The show is rebroadcasted on the following networks: BNN News (Boston Neighborhood Network), Somerville Media Center – SMC, CCTV Cambridge News, Lawrence Community Access TV, Brookline Interactive Group, and LTC Lowell. -->
 
-Rachel has been the **main writer** on the following episodes (click to expand for video):
+Rachel was the **primary writer** on the following episodes (click to expand for video):
 
 <!-- Note to self: [original width=560, height=315], [scaled width=448, height=252] -->
 

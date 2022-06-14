@@ -18,6 +18,9 @@ Rachel's research interests are in magnetics design and modeling, particularly f
 
 ## Conference Papers
 
+- **R. S. Yang**, A. B. Nadler, C. R. Sullivan, and D. J. Perreault, "Permanent Magnet Hybrid Core Inductors
+for High Saturation Capability," IEEE Workshop on Control and Modeling for Power Electronics (COMPEL), Tel Aviv, Israel, 2022.
+
 - R. S. Bayliss III, **R. S. Yang**, A. J. Hanson, C. R. Sullivan, and D. J. Perreault, “[Design, Implementation, and Evaluation of High-Efficiency High-Power Radio-Frequency Inductors](https://ieeexplore.ieee.org/document/9487301),” IEEE Applied Power Electronics Conference and Exposition (APEC), Phoenix, AZ, 2021.
 
 - **R. S. Yang**, A. J. Hanson, C. R. Sullivan, and D. J. Perreault, “[Application Flexibility of a Low-Loss High-Frequency Inductor Structure](https://ieeexplore.ieee.org/document/9124502),” IEEE Applied Power Electronics Conference and Exposition (APEC), New Orleans, LA, 2020.
