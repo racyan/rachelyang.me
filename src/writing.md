@@ -7,6 +7,10 @@ section_classes: writing-page
 
 ## Freelance Science Writing
 
+MIT News | [Your friendly neighborhood architect](https://news.mit.edu/2022/neighborhood-architect-justin-brazier-0713)
+
+MIT News | [Making art through computation](https://news.mit.edu/2022/chelsi-cocking-art-computation-0626)
+
 MIT News | [Helping renewable energy projects succeed in local communities](https://news.mit.edu/2022/jungwoo-chun-renewable-energy-0612)
 
 MIT News | [An astrophysicist in a biomedical universe](https://news.mit.edu/2022/magdelena-allen-pet-scanner-0610)
@@ -15,7 +19,7 @@ MIT EECS Thriving Stars | [Event: Career panel – “Oh, the things you’ll do
 
 MIT EECS News | [MIT iQuHACK 2022: Bringing together the next generation of quantum coders](https://www.eecs.mit.edu/mit-iquhack-2022-bringing-together-the-next-generation-of-quantum-coders/)
 
-MIT News | [EECS Graduate Women’s Annual Research Summit Increases Research Visibility and Strengthens Community](https://news.mit.edu/2021/eecs-graduate-womens-research-summit-1208)
+MIT News | [EECS graduate women’s annual research summit increases research visibility and strengthens community](https://news.mit.edu/2021/eecs-graduate-womens-research-summit-1208)
 
 ## Science Club for Girls Live! (SCFG Live!)
 
