@@ -7,6 +7,10 @@ section_classes: writing-page
 
 ## Freelance Science Writing
 
+MIT News | [Emma Gibson: Optimizing health care logistics in Africa](https://news.mit.edu/2022/emma-gibson-health-care-logistics-africa-0728)
+
+MIT EECS Thriving Stars | [Event: Thriving Stars of AI](https://www.eecs.mit.edu/community-equity/thriving-stars/event-thriving-stars-of-ai/)
+
 MIT News | [Your friendly neighborhood architect](https://news.mit.edu/2022/neighborhood-architect-justin-brazier-0713)
 
 MIT News | [Making art through computation](https://news.mit.edu/2022/chelsi-cocking-art-computation-0626)
