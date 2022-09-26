@@ -7,6 +7,14 @@ section_classes: writing-page
 
 ## Freelance Science Writing
 
+MIT News | [A musician-turned-anthropologist studies venture capitalism in China](https://news.mit.edu/2022/jamie-wong-anthropology-0919)
+
+MIT News | [Modeling the social mind](https://news.mit.edu/2022/setayesh-radkani-social-brain-0909)
+
+MIT News | [Building better batteries, faster](https://news.mit.edu/2022/pablo-leon-battery-materials-0824)
+
+MIT News | [Leveraging computational tools to enhance product design](https://news.mit.edu/2022/jana-saadi-product-design-0810)
+
 MIT News | [Emma Gibson: Optimizing health care logistics in Africa](https://news.mit.edu/2022/emma-gibson-health-care-logistics-africa-0728)
 
 MIT EECS Thriving Stars | [Event: Thriving Stars of AI](https://www.eecs.mit.edu/community-equity/thriving-stars/event-thriving-stars-of-ai/)
