@@ -5,7 +5,9 @@ writing_classes: active
 section_classes: writing-page
 ---
 
-## Freelance Science Writing
+## Science Writing
+
+MIT News | [Making quantum computers more accurate](https://news.mit.edu/2022/alex-greene-quantum-computers-1013)
 
 MIT News | [A musician-turned-anthropologist studies venture capitalism in China](https://news.mit.edu/2022/jamie-wong-anthropology-0919)
 
