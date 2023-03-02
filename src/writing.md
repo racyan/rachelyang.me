@@ -7,33 +7,35 @@ section_classes: writing-page
 
 ## Science Writing
 
-MIT News | [Making quantum computers more accurate](https://news.mit.edu/2022/alex-greene-quantum-computers-1013)
+MIT EECS News | [Thriving Stars panel: women leaders share career widsom](https://www.eecs.mit.edu/thriving-stars-panel-women-leaders-share-career-wisdom/) | 1 Mar 2023
 
-MIT News | [A musician-turned-anthropologist studies venture capitalism in China](https://news.mit.edu/2022/jamie-wong-anthropology-0919)
+MIT News | [Making quantum computers more accurate](https://news.mit.edu/2022/alex-greene-quantum-computers-1013) | 13 Oct 2022
 
-MIT News | [Modeling the social mind](https://news.mit.edu/2022/setayesh-radkani-social-brain-0909)
+MIT News | [A musician-turned-anthropologist studies venture capitalism in China](https://news.mit.edu/2022/jamie-wong-anthropology-0919) | 19 Sept 2022
 
-MIT News | [Building better batteries, faster](https://news.mit.edu/2022/pablo-leon-battery-materials-0824)
+MIT News | [Modeling the social mind](https://news.mit.edu/2022/setayesh-radkani-social-brain-0909) | 9 Sept 2022
 
-MIT News | [Leveraging computational tools to enhance product design](https://news.mit.edu/2022/jana-saadi-product-design-0810)
+MIT News | [Building better batteries, faster](https://news.mit.edu/2022/pablo-leon-battery-materials-0824) | 24 Aug 2022
 
-MIT News | [Emma Gibson: Optimizing health care logistics in Africa](https://news.mit.edu/2022/emma-gibson-health-care-logistics-africa-0728)
+MIT News | [Leveraging computational tools to enhance product design](https://news.mit.edu/2022/jana-saadi-product-design-0810) | 10 Aug 2022
 
-MIT EECS Thriving Stars | [Event: Thriving Stars of AI](https://www.eecs.mit.edu/community-equity/thriving-stars/event-thriving-stars-of-ai/)
+MIT News | [Emma Gibson: Optimizing health care logistics in Africa](https://news.mit.edu/2022/emma-gibson-health-care-logistics-africa-0728) | 28 July 2022
 
-MIT News | [Your friendly neighborhood architect](https://news.mit.edu/2022/neighborhood-architect-justin-brazier-0713)
+MIT News | [Your friendly neighborhood architect](https://news.mit.edu/2022/neighborhood-architect-justin-brazier-0713) | 13 July 2022
 
-MIT News | [Making art through computation](https://news.mit.edu/2022/chelsi-cocking-art-computation-0626)
+MIT EECS News | [Event: Thriving Stars of AI](https://www.eecs.mit.edu/the-thriving-stars-of-ai/) | 11 July 2022
 
-MIT News | [Helping renewable energy projects succeed in local communities](https://news.mit.edu/2022/jungwoo-chun-renewable-energy-0612)
+MIT News | [Making art through computation](https://news.mit.edu/2022/chelsi-cocking-art-computation-0626) | 26 June 2022
 
-MIT News | [An astrophysicist in a biomedical universe](https://news.mit.edu/2022/magdelena-allen-pet-scanner-0610)
+MIT News | [Helping renewable energy projects succeed in local communities](https://news.mit.edu/2022/jungwoo-chun-renewable-energy-0612) | 12 June 2022
 
-MIT EECS Thriving Stars | [Event: Career panel – “Oh, the things you’ll do! (with a PhD)”](https://www.eecs.mit.edu/community-equity/thriving-stars/event-career-panel-oh-the-things-youll-do-with-a-phd/)
+MIT News | [An astrophysicist in a biomedical universe](https://news.mit.edu/2022/magdelena-allen-pet-scanner-0610) | 10 June 2022
 
-MIT EECS News | [MIT iQuHACK 2022: Bringing together the next generation of quantum coders](https://www.eecs.mit.edu/mit-iquhack-2022-bringing-together-the-next-generation-of-quantum-coders/)
+MIT EECS Thriving Stars | [Event: Career panel – “Oh, the things you’ll do! (with a PhD)”](https://www.eecs.mit.edu/community-equity/thriving-stars/event-career-panel-oh-the-things-youll-do-with-a-phd/) | 8 Apr 2022
 
-MIT News | [EECS graduate women’s annual research summit increases research visibility and strengthens community](https://news.mit.edu/2021/eecs-graduate-womens-research-summit-1208)
+MIT EECS News | [MIT iQuHACK 2022: Bringing together the next generation of quantum coders](https://www.eecs.mit.edu/mit-iquhack-2022-bringing-together-the-next-generation-of-quantum-coders/) | 16 Mar 2022
+
+MIT News | [EECS graduate women’s annual research summit increases research visibility and strengthens community](https://news.mit.edu/2021/eecs-graduate-womens-research-summit-1208) | 8 Dec 2021
 
 ## Science Club for Girls Live! (SCFG Live!)
 

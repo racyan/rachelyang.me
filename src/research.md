@@ -7,7 +7,7 @@ section_classes: research-page
 
 <img src="/assets/images/research/MP_prototypes.jpg" style="display: block; margin: auto;" width="400" alt="inductor prototypes">
 
-Rachel's research interests are in magnetics design and modeling, particularly for high-frequency power applications. She is currently a graduate student researcher at MIT in Prof. David Perreault's [Power Electronics Research Group](https://www.rle.mit.edu/per/).
+Rachel's research interests are in magnetics design and modeling, particularly for high-frequency power applications. Improving magnetic components' performance is crucial for advancing power electronics, as they're often largest and lossiest parts. She is currently a graduate student researcher at MIT in Prof. David Perreault's [Power Electronics Research Group](https://www.rle.mit.edu/per/).
 
 
 ## Journal Papers
@@ -19,7 +19,7 @@ Rachel's research interests are in magnetics design and modeling, particularly f
 ## Conference Papers
 
 - **R. S. Yang**, A. B. Nadler, C. R. Sullivan, and D. J. Perreault, "[Permanent Magnet Hybrid Core Inductors
-for High Saturation Capability](https://ieeexplore.ieee.org/document/9830021)," IEEE Workshop on Control and Modeling for Power Electronics (COMPEL), Tel Aviv, Israel, 2022.
+for High Saturation Capability](https://ieeexplore.ieee.org/document/9830021)," IEEE Workshop on Control and Modeling for Power Electronics (COMPEL), Tel Aviv, Israel, 2022. **(best paper award)**
 
 - R. S. Bayliss III, **R. S. Yang**, A. J. Hanson, C. R. Sullivan, and D. J. Perreault, “[Design, Implementation, and Evaluation of High-Efficiency High-Power Radio-Frequency Inductors](https://ieeexplore.ieee.org/document/9487301),” IEEE Applied Power Electronics Conference and Exposition (APEC), Phoenix, AZ, 2021.
 
@@ -33,6 +33,11 @@ for High Saturation Capability](https://ieeexplore.ieee.org/document/9830021)," 
 ## Presentations
 
 - **R. S. Yang**, A. J. Hanson, R. S. Bayliss III, C. R. Sullivan, and D. J. Perreault, “Strategies for Scalable Low-Loss Multi-MHz Inductors,” PSMA Magnetics Committee / IEEE PELS High Frequency Magnetics Workshop, May 19, 2020. [Slides](https://www.psma.com/sites/default/files/uploads/files/Strategies%20for%20Scalable%20Low-Loss%20Multi-MHz%20Inductors%20Yang%2C%20MIT.pdf). [Video](https://www.psma.com/technical-forums/magnetics/presentations).
+
+
+## Patents
+
+- D. J. Perreault, A. J. Hanson, S. Lim, and **R. S. Yang**, “Wide-Operating-Range Resonant-Transition Soft-Switched Converter," U.S. Patent No. 10,700,589, June 30, 2020.
 
 
 ## Thesis
