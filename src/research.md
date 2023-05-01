@@ -7,7 +7,7 @@ section_classes: research-page
 
 <img src="/assets/images/research/MP_prototypes.jpg" style="display: block; margin: auto;" width="400" alt="inductor prototypes">
 
-Rachel's research interests are in magnetics design and modeling, particularly for high-frequency power applications. Improving magnetic components' performance is crucial for advancing power electronics, as they're often largest and lossiest parts. She is currently a graduate student researcher at MIT in Prof. David Perreault's [Power Electronics Research Group](https://www.rle.mit.edu/per/).
+Rachel's research interests are in magnetics design and modeling, particularly for high-frequency power applications. Improving magnetic components' performance is crucial for advancing power electronics, as they're often the largest and lossiest parts. She is currently a graduate student researcher at MIT in Prof. David Perreault's [Power Electronics Research Group](https://www.rle.mit.edu/per/).
 
 
 ## Journal Papers
