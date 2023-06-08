@@ -7,6 +7,8 @@ section_classes: writing-page
 
 ## Science Writing
 
+MIT EECS News | [The Thriving Stars of data-driven medical diagnoses](https://www.eecs.mit.edu/the-thriving-stars-of-data-driven-medical-diagnoses/) | 7 June 2023
+
 MIT EECS News | [Thriving Stars panel: women leaders share career wisdom](https://www.eecs.mit.edu/thriving-stars-panel-women-leaders-share-career-wisdom/) | 1 Mar 2023
 
 MIT News | [Making quantum computers more accurate](https://news.mit.edu/2022/alex-greene-quantum-computers-1013) | 13 Oct 2022
