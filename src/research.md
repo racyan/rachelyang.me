@@ -7,9 +7,9 @@ section_classes: research-page
 
 <img src="/assets/images/research/MP_prototypes.jpg" style="display: block; margin: auto;" width="400" alt="inductor prototypes">
 
-Rachel's research is in power electronics, a critical technology that provides power to anything requiring electricity. In particular, she specializes in magnetics design and modeling, particularly for high-frequency power applications. Rachel works on improving the energy efficiency and density of magnetics, as they're often the bottleneck in advancing power electronics applications and in enabling new ones to emerge. 
+Rachel's research is in power electronics, a critical technology that provides power to anything requiring electricity. In particular, she specializes in magnetics design and modeling, with a focus on high-frequency power applications. Rachel works on improving the energy efficiency and density of magnetics, as they're often the bottleneck in advancing power electronics applications and in enabling new ones to emerge. 
 
-Through her research thus far, Rachel has developed two types of magnetic component designs that can reduce the energy loss of these components by half. These low-loss designs may help to drastically improve a wide range of power electronics applications, such as by reducing the energy used in manufacturing semiconductors or by accelerating the charging rate of wireless chargers.
+Through her research thus far, Rachel has developed two types of magnetic component designs that can halve the energy loss of these components. These low-loss designs may help to drastically improve a wide range of power electronics applications, such as by reducing the energy used in manufacturing semiconductors or by accelerating the charging rate of wireless chargers.
 
 Rachel is currently a graduate student researcher at MIT in Prof. David Perreault's [Power Electronics Research Group](https://www.rle.mit.edu/per/).
 
@@ -25,9 +25,9 @@ Rachel is currently a graduate student researcher at MIT in Prof. David Perreaul
 
 ## Conference Papers
 
-- **R. S. Yang**, I. Nikiforidis, N. Pucci, M. V. Joisher, P. Wagle, P. D. Mitcheson, and D. J. Perreault, “Design and Performance Comparison of Multi-frequency Inductors for Megahertz Wireless Power Transfer,” IEEE Applied Power Electronics Conference and Exposition (APEC), Long Beach, CA, 2024. _To appear._
+- **R. S. Yang**, I. Nikiforidis, N. Pucci, M. V. Joisher, P. Wagle, P. D. Mitcheson, and D. J. Perreault, “Design and Performance Comparison of Multi-frequency Inductors for Megahertz Wireless Power Transfer,” IEEE Applied Power Electronics Conference and Exposition (APEC), Long Beach, CA, 2024. **(outstanding presentation award)**
 
-- M. V. Joisher, R. S. Bayliss III, M. K. Ranjram, **R. S. Yang**, A. S. Jurkov, and D. J. Perreault, “High-Performance High-Power Inductor Design for High-Frequency Applications,” IEEE Applied Power Electronics Conference and Exposition (APEC), Long Beach, CA, 2024. _To appear._
+- M. V. Joisher, R. S. Bayliss III, M. K. Ranjram, **R. S. Yang**, A. S. Jurkov, and D. J. Perreault, “High-Performance High-Power Inductor Design for High-Frequency Applications,” IEEE Applied Power Electronics Conference and Exposition (APEC), Long Beach, CA, 2024.
 
 - **R. S. Yang**, A. B. Nadler, C. R. Sullivan, and D. J. Perreault, "[Permanent Magnet Hybrid Core Inductors
 for High Saturation Capability](https://ieeexplore.ieee.org/document/9830021)," IEEE Workshop on Control and Modeling for Power Electronics (COMPEL), Tel Aviv, Israel, 2022. **(best paper award)**

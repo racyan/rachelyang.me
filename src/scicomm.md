@@ -5,9 +5,11 @@ scicomm_classes: active
 section_classes: scicomm-page
 ---
 
-Rachel is a science writer and communicator who strives to spark interest in science. She has written articles on STEM topics for the general public and has also written scripts for K-5 STEM education videos. Besides creating scicomm content, Rachel has also presented on the craft of science communication at conferences and run workshops on science communication. See below to learn more about Rachel's scicomm work.
+Rachel is a science writer and communicator who strives to spark interest in science. She has written articles on STEM topics for the general public and has also written scripts for K-5 STEM education videos. Besides creating scicomm content, Rachel has also presented on the craft of science communication at conferences and has run workshops on science communication. See below to learn more about Rachel's scicomm work.
 
 ## Science Writing
+
+MIT EECS News | [At the MIT Quantum Hackathon, a community tackles quantum computing challenges](https://www.eecs.mit.edu/at-the-mit-quantum-hackathon-a-community-tackles-quantum-computing-challenges/) | 28 Feb 2024
 
 MIT EECS News | [The Thriving Stars of data-driven medical diagnoses](https://www.eecs.mit.edu/the-thriving-stars-of-data-driven-medical-diagnoses/) | 7 June 2023
 
