@@ -25,9 +25,9 @@ Rachel is currently a graduate student researcher at MIT in Prof. David Perreaul
 
 ## Conference Papers
 
-- **R. S. Yang**, I. Nikiforidis, N. Pucci, M. V. Joisher, P. Wagle, P. D. Mitcheson, and D. J. Perreault, “Design and Performance Comparison of Multi-frequency Inductors for Megahertz Wireless Power Transfer,” IEEE Applied Power Electronics Conference and Exposition (APEC), Long Beach, CA, 2024. **(outstanding presentation award)**
+- **R. S. Yang**, I. Nikiforidis, N. Pucci, M. V. Joisher, P. Wagle, P. D. Mitcheson, and D. J. Perreault, “[Design and Performance Comparison of Multi-Frequency Inductors for Megahertz Wireless Power Transfer](https://ieeexplore.ieee.org/document/10509134),” IEEE Applied Power Electronics Conference and Exposition (APEC), Long Beach, CA, 2024. **(outstanding presentation award)**
 
-- M. V. Joisher, R. S. Bayliss III, M. K. Ranjram, **R. S. Yang**, A. S. Jurkov, and D. J. Perreault, “High-Performance High-Power Inductor Design for High-Frequency Applications,” IEEE Applied Power Electronics Conference and Exposition (APEC), Long Beach, CA, 2024.
+- M. V. Joisher, R. S. Bayliss III, M. K. Ranjram, **R. S. Yang**, A. S. Jurkov, and D. J. Perreault, “[High-Performance High-Power Inductor Design for High-Frequency Applications](https://ieeexplore.ieee.org/document/10509201),” IEEE Applied Power Electronics Conference and Exposition (APEC), Long Beach, CA, 2024.
 
 - **R. S. Yang**, A. B. Nadler, C. R. Sullivan, and D. J. Perreault, "[Permanent Magnet Hybrid Core Inductors
 for High Saturation Capability](https://ieeexplore.ieee.org/document/9830021)," IEEE Workshop on Control and Modeling for Power Electronics (COMPEL), Tel Aviv, Israel, 2022. **(best paper award)**

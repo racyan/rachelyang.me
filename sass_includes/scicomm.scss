@@ -3,4 +3,14 @@
         max-width: 100vw;
         max-height: 56.25vw;
     }
+    
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+    
+    li {
+        font-size: $researchListItemSize;
+    }
 }

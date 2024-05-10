@@ -10,7 +10,7 @@ section_classes: about-page
 
 Rachel Yang (she/her) is an electrical engineer, researcher, writer, and science communicator. 
 
-For research, Rachel works on power electronics, a critical technology that provides power to anything requiring electricity, from smartphones and laptops to homes and schools. Specifically, she focuses on making magnetic components used in power electronics more energy efficient and more energy dense, as they're often the bottleneck in improving the performance of power electronics. By developing better magnetic components, Rachel hopes to help enable technological advances in electrical systems, such as by reducing the energy consumption of power-hungry data centers or by accelerating the development of hybrid electric aircraft.
+For research, Rachel works on power electronics, a critical technology that provides power to anything requiring electricity, from smartphones to electric vehicles. She works to make power electronics more energy efficient and more energy dense by improving their most limiting components: the magnetic components. By developing better magnetic components, Rachel hopes to help advance technology for a more sustainable society, such as by reducing the energy consumption of power-hungry data centers or by accelerating the development of hybrid electric aircraft.
 
 <!-- reducing energy consumption in the semiconductor manufacturing process or accelerating the charging rate of wireless chargers. -->
 
@@ -20,7 +20,7 @@ For research, Rachel works on power electronics, a critical technology that prov
 
  <!-- Often, the type of power that's needed is not the type of power that's available, so these components help convert power between different types by using magnetic energy. -->
  
-Besides research, Rachel loves helping other scientists and engineers improve their communication skills. She is a Communication Fellow at the [MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/), where she coaches undergraduates, graduate students, and postdocs on technical communication skills. In the past, Rachel has co-taught an annual workshop series on science communication to STEM graduate students and postdocs at MIT. 
+Besides research, Rachel loves helping other scientists and engineers improve their communication skills. She is a Communication Fellow at the [MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/), where she coaches undergraduates, graduate students, and postdocs on technical communication skills. Rachel has also previously co-taught an annual workshop series on science communication to STEM graduate students and postdocs at MIT. 
 
 Rachel also strives to spark interest in science and to make STEM more accessible. She is a science writer and has previously interned at MIT News. Currently, she is a fact-checker for the popular science YouTube channel [SciShow](https://www.youtube.com/scishow). 
 
