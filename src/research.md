@@ -19,7 +19,7 @@ Rachel is currently a graduate student researcher at MIT in Prof. David Perreaul
 
 - **R. S. Yang**, A. B. Nadler, C. R. Sullivan and D. J. Perreault, "[Permanent Magnet Hybrid Core Inductors for High Saturation Capability](https://ieeexplore.ieee.org/document/10192270)," IEEE Open Journal of Power Electronics, vol. 4, pp. 603-614, 2023.
 
-- **R. S. Yang**, A. J. Hanson, C. R. Sullivan and D. J. Perreault, “[Design Flexibility of a Modular Low-Loss High-Frequency Inductor Structure](https://ieeexplore.ieee.org/document/9420302),” IEEE Transactions on Power Electronics, vol. 36, no. 11, pp. 13013-13024, Nov. 2021.
+- **R. S. Yang**, A. J. Hanson, C. R. Sullivan and D. J. Perreault, “[Design Flexibility of a Modular Low-Loss High-Frequency Inductor Structure](https://ieeexplore.ieee.org/document/9420302),” IEEE Transactions on Power Electronics, vol. 36, no. 11, pp. 13013-13024, Nov 2021.
 
 - **R. S. Yang**, A. J. Hanson, B. A. Reese, C. R. Sullivan and D. J. Perreault, "[A Low-Loss Inductor Structure and Design Guidelines for High-Frequency Applications](https://ieeexplore.ieee.org/document/8610126/)," IEEE Transactions on Power Electronics, vol. 34, no. 10, pp. 9993-10005, Oct 2019.
 
@@ -38,12 +38,12 @@ for High Saturation Capability](https://ieeexplore.ieee.org/document/9830021)," 
 
 - **R. S. Yang**, A. J. Hanson, D. J. Perreault and C. R. Sullivan, "[A Low-Loss Inductor Structure and Design Guidelines for High-Frequency Applications](https://ieeexplore.ieee.org/document/8341070/)," IEEE Applied Power Electronics Conference and Exposition (APEC), San Antonio, TX, 2018. [Full article](https://dspace.mit.edu/bitstream/handle/1721.1/123505/Yang%20APEC18%20HF%20Inductor%20final.pdf?sequence=2&isAllowed=y). **(outstanding presentation award)**
 
-- A. J. Hanson, **R. S. Yang**, S. Lim, and D. J. Perreault, “[A Soft-Switched High Frequency Converter for Wide Voltage and Power Ranges](https://ieeexplore.ieee.org/document/7749103/),” in IEEE International Telecommunications Energy Conference (INTELEC), Austin, TX, Oct 2016.
+- A. J. Hanson, **R. S. Yang**, S. Lim, and D. J. Perreault, “[A Soft-Switched High Frequency Converter for Wide Voltage and Power Ranges](https://ieeexplore.ieee.org/document/7749103/),” in IEEE International Telecommunications Energy Conference (INTELEC), Austin, TX, 2016.
 
 
 ## Presentations
 
-- **R. S. Yang**, A. J. Hanson, R. S. Bayliss III, C. R. Sullivan, and D. J. Perreault, “Strategies for Scalable Low-Loss Multi-MHz Inductors,” PSMA Magnetics Committee / IEEE PELS High Frequency Magnetics Workshop, May 19, 2020. [Slides](https://www.psma.com/sites/default/files/uploads/files/Strategies%20for%20Scalable%20Low-Loss%20Multi-MHz%20Inductors%20Yang%2C%20MIT.pdf). [Video](https://www.psma.com/technical-forums/magnetics/presentations).
+- **R. S. Yang**, A. J. Hanson, R. S. Bayliss III, C. R. Sullivan, and D. J. Perreault, “Strategies for Scalable Low-Loss Multi-MHz Inductors,” PSMA Magnetics Committee / IEEE PELS High Frequency Magnetics Workshop, 19 May 2020. [Slides](https://www.psma.com/sites/default/files/uploads/files/Strategies%20for%20Scalable%20Low-Loss%20Multi-MHz%20Inductors%20Yang%2C%20MIT.pdf). [Video](https://www.psma.com/technical-forums/magnetics/presentations).
 
 
 ## Patents
@@ -59,4 +59,5 @@ for High Saturation Capability](https://ieeexplore.ieee.org/document/9830021)," 
 ## Research Fellowships
 
 - National Science Foundation Graduate Research Fellowship
-- E.E. Landsman Fellowship
+- MIT E.E. Landsman Fellowship
+- MIT School of Engineering Distinguished Energy Efficiency Fellowship

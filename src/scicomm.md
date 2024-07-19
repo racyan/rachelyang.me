@@ -9,7 +9,9 @@ Rachel is a science writer and communicator who strives to spark interest in sci
 
 ## Science Writing
 
-MIT EECS News | [At the MIT Quantum Hackathon, a community tackles quantum computing challenges](https://www.eecs.mit.edu/at-the-mit-quantum-hackathon-a-community-tackles-quantum-computing-challenges/) | 28 Feb 2024
+MIT News | [Unlocking the quantum future](https://news.mit.edu/2024/hackathon-unlocking-quantum-future-0318) | 18 Mar 2024
+
+<!-- MIT EECS News | [At the MIT Quantum Hackathon, a community tackles quantum computing challenges](https://www.eecs.mit.edu/at-the-mit-quantum-hackathon-a-community-tackles-quantum-computing-challenges/) | 28 Feb 2024 -->
 
 MIT EECS News | [The Thriving Stars of data-driven medical diagnoses](https://www.eecs.mit.edu/the-thriving-stars-of-data-driven-medical-diagnoses/) | 7 June 2023
 
