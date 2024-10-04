@@ -7,7 +7,11 @@ section_classes: scicomm-page
 
 Rachel is a science writer and communicator who strives to spark interest in science. She has written articles on STEM topics for the general public and has also written scripts for K-5 STEM education videos. Besides creating scicomm content, Rachel has also presented on the craft of science communication at conferences and has run workshops on science communication. See below to learn more about Rachel's scicomm work.
 
-## Science Writing
+## Writing &ndash; Essays
+
+Science | [I hated writing&mdash;until I learned there's a science to it](https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it) | 3 Oct 2024
+
+## Writing &ndash; News Articles
 
 MIT News | [Unlocking the quantum future](https://news.mit.edu/2024/hackathon-unlocking-quantum-future-0318) | 18 Mar 2024
 
@@ -53,7 +57,7 @@ Previously, Rachel was a **script writer** for [_SCFG Live!_](https://www.scienc
 
 <!-- The show is rebroadcasted on the following networks: BNN News (Boston Neighborhood Network), Somerville Media Center – SMC, CCTV Cambridge News, Lawrence Community Access TV, Brookline Interactive Group, and LTC Lowell. -->
 
-Rachel was the **primary writer** on the following episodes (click to expand for video):
+Rachel was the primary writer on the following episodes (click to expand for video):
 
 <!-- Note to self: [original width=560, height=315], [scaled width=448, height=252] -->
 
@@ -95,9 +99,9 @@ Rachel was the **primary writer** on the following episodes (click to expand for
 
 ## Conferences
 
-J. Goldstein and **R. S. Yang**, “Inclusive Science Communication Coaching Best Practices,” Inclusive SciComm Symposium, 20 October 2023. **(workshop co-facilitator)**
+J. Goldstein and **R. S. Yang**, “Inclusive Science Communication Coaching Best Practices,” Inclusive SciComm Symposium, Kingston, RI, 20 Oct 2023. **(workshop co-facilitator)**
 
-**R. S. Yang**, “Getting scientists to open up in interviews,” Science Talk Annual Conference, The Association of Science Communicators, 6 April 2023. **(poster presenter)**
+**R. S. Yang**, “Getting scientists to open up in interviews,” Science Talk Annual Conference, The Association of Science Communicators, Portland, OR, 6 Apr 2023. **(poster presenter)**
 
 ## Teaching
 
