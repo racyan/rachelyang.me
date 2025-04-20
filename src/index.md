@@ -22,7 +22,7 @@ For research, Rachel works on power electronics, a critical technology that prov
  
 Besides research, Rachel loves helping other scientists and engineers improve their communication skills. She is a Communication Fellow at the [MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/), where she coaches undergraduates, graduate students, and postdocs on technical communication skills. In the past, Rachel has co-taught a workshop series on science communication to STEM graduate students and postdocs at MIT. 
 
-Rachel also strives to spark interest in science and to make STEM more accessible. Currently, she is a script writer and editor at [TED-Ed](https://www.youtube.com/@TEDEd), where she works on animated shorts about science. She is also a fact-checker for the popular science YouTube channel [SciShow](https://www.youtube.com/scishow). Previously, Rachel has interned as a science writer at MIT News. 
+Rachel also strives to spark interest in science and to make STEM more accessible. Currently, she is a script writer and editor at [TED-Ed](https://www.youtube.com/@TEDEd), where she works on animated videos about science. She is also a fact-checker for the popular science YouTube channel [SciShow](https://www.youtube.com/scishow). Previously, Rachel has interned as a science writer at MIT News. 
 
 As an electrical engineer, Rachel has worked on the [Xbox Adaptive Controller](https://www.microsoft.com/en-us/garage/wall-of-fame/xbox-adaptive-controller/), the Xbox One S, the Xbox One X, and the Microsoft HoloLens 2.
 

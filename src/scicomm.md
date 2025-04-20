@@ -5,11 +5,19 @@ scicomm_classes: active
 section_classes: scicomm-page
 ---
 
-Rachel is a science writer and communicator who strives to spark interest in science. She has written articles on STEM topics for the general public and has also written scripts for K-5 STEM education videos. Besides creating scicomm content, Rachel has also presented on the craft of science communication at conferences and has run workshops on science communication. See below to learn more about Rachel's scicomm work.
+Rachel is a science writer and communicator who strives to spark interest in science. She has written scripts for TED-Ed animation videos and for K-5 STEM education videos. She has also written articles on STEM topics for the general public. Besides creating scicomm content, Rachel has presented on the craft of science communication at conferences and has run workshops on science communication. See below to learn more about Rachel's scicomm work.
+
+## TED-Ed
+
+<!-- Note to self: [original width=560, height=315], [scaled width=448, height=252] -->
+
+Rachel is credited as the educator/script writer on the following video:
+
+<iframe width="448" height="252" src="https://www.youtube.com/embed/f-T0PEWRaVc?si=wvu4Qcy8saGNf8n5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Writing &ndash; Essays
 
-Science | [I hated writing&mdash;until I learned there's a science to it](https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it) | 3 Oct 2024
+Science | [I hated writing&mdash;until I learned there's a science to it](https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it) | 3 Oct 2024 (one of Science's [most read essays in 2024](https://www.science.org/content/article/perfecting-academic-writing-facing-fraud-science-s-top-personal-essays-year))
 
 ## Writing &ndash; News Articles
 
