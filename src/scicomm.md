@@ -11,9 +11,17 @@ Rachel is a science writer and communicator who strives to spark interest in sci
 
 <!-- Note to self: [original width=560, height=315], [scaled width=448, height=252] -->
 
-Rachel is credited as the educator/script writer on the following video:
+Rachel is credited as the educator/script writer on the following videos (click to expand):
 
-<iframe width="448" height="252" src="https://www.youtube.com/embed/f-T0PEWRaVc?si=wvu4Qcy8saGNf8n5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<details>
+<summary>How much does it cost to fly private?</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/vOBjtotp-Gw?si=dL6JbARa02MTI-0n" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
+
+<details>
+<summary>The best invention since sliced bread?</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/f-T0PEWRaVc?si=wvu4Qcy8saGNf8n5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
 
 ## Writing &ndash; Essays
 
@@ -65,7 +73,7 @@ Previously, Rachel was a **script writer** for [_SCFG Live!_](https://www.scienc
 
 <!-- The show is rebroadcasted on the following networks: BNN News (Boston Neighborhood Network), Somerville Media Center – SMC, CCTV Cambridge News, Lawrence Community Access TV, Brookline Interactive Group, and LTC Lowell. -->
 
-Rachel was the primary writer on the following episodes (click to expand for video):
+Rachel was the primary writer on the following episodes (click to expand):
 
 <!-- Note to self: [original width=560, height=315], [scaled width=448, height=252] -->
 
