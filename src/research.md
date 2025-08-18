@@ -11,7 +11,7 @@ Rachel's research is in power electronics, a critical technology that provides p
 
 Through her research thus far, Rachel has developed two types of magnetic component designs that can halve the energy loss of these components. These low-loss designs may help to drastically improve a wide range of power electronics applications, such as by reducing the energy used in manufacturing semiconductors or by accelerating the charging rate of wireless chargers.
 
-Rachel is currently a graduate student researcher at MIT in Prof. David Perreault's [Power Electronics Research Group](https://www.rle.mit.edu/per/).
+<!-- Rachel is currently a graduate student researcher at MIT in Prof. David Perreault's [Power Electronics Research Group](https://www.rle.mit.edu/per/). -->
 
 <!-- Rachel's research interests are in magnetics design and modeling, particularly for high-frequency power applications. Improving magnetic components' performance is crucial for advancing power electronics, as they're often the largest and lossiest parts in the system.  -->
 
@@ -51,9 +51,11 @@ for High Saturation Capability](https://ieeexplore.ieee.org/document/9830021)," 
 - D. J. Perreault, A. J. Hanson, S. Lim, and **R. S. Yang**, “Wide-Operating-Range Resonant-Transition Soft-Switched Converter," U.S. Patent No. 10,700,589, June 30, 2020.
 
 
-## Thesis
+## Theses
 
-- **R. S. Yang**, "[Low-Loss Inductor Design for High-Frequency Power Applications](https://dspace.mit.edu/bitstream/handle/1721.1/123006/1127567059-MIT.pdf?sequence=1&isAllowed=y)," M.Eng. thesis, Massachusetts Institute of Technology, 2019.
+- **R. S. Yang**, "Hybrid Core Inductors for High Saturation Capability," PhD thesis, Massachusetts Institute of Technology, 2025.
+
+- **R. S. Yang**, "[Low-Loss Inductor Design for High-Frequency Power Applications](https://dspace.mit.edu/bitstream/handle/1721.1/123006/1127567059-MIT.pdf?sequence=1&isAllowed=y)," MEng thesis, Massachusetts Institute of Technology, 2019.
 
 
 ## Research Fellowships

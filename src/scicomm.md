@@ -19,7 +19,7 @@ Rachel is credited as the educator/script writer on the following videos (click 
 </details>
 
 <details>
-<summary>The best invention since sliced bread?</summary>
+<summary>The solution to our energy problems is … a toaster</summary>
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/f-T0PEWRaVc?si=wvu4Qcy8saGNf8n5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
