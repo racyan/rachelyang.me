@@ -5,7 +5,16 @@ scicomm_classes: active
 section_classes: scicomm-page
 ---
 
-Rachel is a science writer and communicator who strives to spark interest in science. She has written scripts for TED-Ed animation videos and for K-5 STEM education videos. She has also written articles on STEM topics for the general public. Besides creating scicomm content, Rachel has presented on the craft of science communication at conferences and has run workshops on science communication. See below to learn more about Rachel's scicomm work.
+Rachel is a science writer and communicator who strives to spark interest in science. She has written video scripts for TED-Ed animation, SciShow, and a K-5 STEM education series. She has also written articles on STEM topics for the general public. Besides creating scicomm content, Rachel has presented on the craft of science communication at conferences and has run workshops on science communication. See below to learn more about Rachel's scicomm work.
+
+## SciShow
+
+Rachel is credited as the writer on the following videos (click to expand):
+
+<details>
+<summary>How Much Information Can A Human Head Hold?</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/860Qsb-MUx4?si=TWHYmJLPgJfbWzgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
 
 ## TED-Ed
 

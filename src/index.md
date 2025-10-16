@@ -22,7 +22,8 @@ For research, Rachel works on power electronics, a critical technology that prov
 
 <!-- As a science communicator, Rachel strives to spark interest in science through her writing.  -->
 
-Besides research, Rachel strives to spark interest in science through her science communication work. Currently, she is a script writer and editor at [TED-Ed](https://www.youtube.com/@TEDEd), where she works on animated videos about science. She is also a fact-checker for the popular science YouTube channel [SciShow](https://www.youtube.com/scishow). Her writing has appeared in MIT News.
+Besides research, Rachel is also a science writer who strives to spark interest in science. Her writing has appeared on [TED-Ed](https://www.youtube.com/@TEDEd), [SciShow](https://www.youtube.com/scishow), and [MIT News](https://news.mit.edu/).
+<!-- strives to spark interest in science through her science communication work. Currently, she is a script writer and editor at [TED-Ed](https://www.youtube.com/@TEDEd), where she works on animated videos about science. She also a fact-checker for the popular science YouTube channel [SciShow](https://www.youtube.com/scishow). Her writing has appeared in MIT News. -->
 
 <!-- As an electrical engineer, Rachel has worked on the [Xbox Adaptive Controller](https://www.microsoft.com/en-us/garage/wall-of-fame/xbox-adaptive-controller/), the Xbox One S, the Xbox One X, and the Microsoft HoloLens 2. -->
 
