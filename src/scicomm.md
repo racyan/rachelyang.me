@@ -12,6 +12,11 @@ Rachel is a science writer and communicator who strives to spark interest in sci
 Rachel is credited as the writer on the following videos (click to expand):
 
 <details>
+<summary>How to Make Fair DnD Dice from ANY Shape</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/-gp7AbYD9NI?si=WT2gfHSzq9SbOZYU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
+
+<details>
 <summary>How Much Information Can A Human Head Hold?</summary>
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/860Qsb-MUx4?si=TWHYmJLPgJfbWzgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
