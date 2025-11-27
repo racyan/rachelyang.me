@@ -7,25 +7,11 @@ section_classes: scicomm-page
 
 Rachel is a science writer and communicator who strives to spark interest in science. She has written video scripts for TED-Ed animation, SciShow, and a K-5 STEM education series. She has also written articles on STEM topics for the general public. Besides creating scicomm content, Rachel has presented on the craft of science communication at conferences and has run workshops on science communication. See below to learn more about Rachel's scicomm work.
 
-## SciShow
-
-Rachel is credited as the writer on the following videos (click to expand):
-
-<details>
-<summary>How to Make Fair DnD Dice from ANY Shape</summary>
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/-gp7AbYD9NI?si=WT2gfHSzq9SbOZYU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</details>
-
-<details>
-<summary>How Much Information Can A Human Head Hold?</summary>
-<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/860Qsb-MUx4?si=TWHYmJLPgJfbWzgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</details>
-
 ## TED-Ed
 
 <!-- Note to self: [original width=560, height=315], [scaled width=448, height=252] -->
 
-Rachel is credited as the educator/script writer on the following videos (click to expand):
+Rachel is credited as the **educator/script writer** on the following videos (click to expand):
 
 <details>
 <summary>Your phone’s camera isn’t as good as you think</summary>
@@ -40,6 +26,27 @@ Rachel is credited as the educator/script writer on the following videos (click 
 <details>
 <summary>The solution to our energy problems is … a toaster</summary>
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/f-T0PEWRaVc?si=wvu4Qcy8saGNf8n5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
+
+Rachel is credited as the **script editor** on the following video (click to expand):
+
+<details>
+<summary>This is what happens in your brain when you can’t recall a word</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/wtovy-1-QUM?si=VmIyrkdoVansnwnI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
+
+## SciShow
+
+Rachel is credited as the **writer** on the following videos (click to expand):
+
+<details>
+<summary>How to Make Fair DnD Dice from ANY Shape</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/-gp7AbYD9NI?si=WT2gfHSzq9SbOZYU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
+
+<details>
+<summary>How Much Information Can A Human Head Hold?</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/860Qsb-MUx4?si=TWHYmJLPgJfbWzgY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
 ## Writing &ndash; Essays

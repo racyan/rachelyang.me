@@ -17,7 +17,7 @@ Through her research thus far, Rachel has developed two types of magnetic compon
 
 ## Journal Papers
 
-- M. V. Joisher, J. Wang, R. S. Bayliss III, M. K. Ranjram, **R. S. Yang**, A. S. Jurkov, and D. J. Perreault, “[High-Performance High-Power Inductor Design for High-Frequency Applications](https://ieeexplore.ieee.org/document/11207142),” IEEE Open Journal of Power Electronics, 2025.
+- M. V. Joisher, J. Wang, R. S. Bayliss III, M. K. Ranjram, **R. S. Yang**, A. S. Jurkov, and D. J. Perreault, “[High-Performance High-Power Inductor Design for High-Frequency Applications](https://ieeexplore.ieee.org/document/11207142),” IEEE Open Journal of Power Electronics, vol. 6, pp. 1991-2004, 2025.
 
 - **R. S. Yang**, A. B. Nadler, C. R. Sullivan and D. J. Perreault, "[Permanent Magnet Hybrid Core Inductors for High Saturation Capability](https://ieeexplore.ieee.org/document/10192270)," IEEE Open Journal of Power Electronics, vol. 4, pp. 603-614, 2023.
 
