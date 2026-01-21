@@ -31,6 +31,11 @@ Rachel is credited as the **educator/script writer** on the following videos (cl
 Rachel is credited as the **script editor** on the following video (click to expand):
 
 <details>
+<summary>Will laser blasters ever be possible?</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/cmO2ryQ8LcY?si=TTePTVlypde6UBtn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
+
+<details>
 <summary>This is what happens in your brain when you can’t recall a word</summary>
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/wtovy-1-QUM?si=VmIyrkdoVansnwnI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
