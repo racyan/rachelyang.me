@@ -11,7 +11,7 @@ Rachel is a science writer and communicator who strives to spark interest in sci
 
 <!-- Note to self: [original width=560, height=315], [scaled width=448, height=252] -->
 
-Rachel is credited as the **educator/script writer** on the following videos (click to expand):
+Rachel is credited as an **educator/script writer** on the following videos (click to expand):
 
 <details>
 <summary>Your phone’s camera isn’t as good as you think</summary>
@@ -28,7 +28,7 @@ Rachel is credited as the **educator/script writer** on the following videos (cl
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/f-T0PEWRaVc?si=wvu4Qcy8saGNf8n5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
-Rachel is credited as the **script editor** on the following video (click to expand):
+Rachel is credited as a **script editor** on the following videos (click to expand):
 
 <details>
 <summary>Will laser blasters ever be possible?</summary>
@@ -42,7 +42,12 @@ Rachel is credited as the **script editor** on the following video (click to exp
 
 ## SciShow
 
-Rachel is credited as the **writer** on the following videos (click to expand):
+Rachel is credited as a **writer** on the following videos (click to expand):
+
+<details>
+<summary>Why Hold Music Still Sucks</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/xcVm_s7W2Ns?si=9NRd-sNUUDvpwYtg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
 
 <details>
 <summary>How to Make Fair DnD Dice from ANY Shape</summary>
