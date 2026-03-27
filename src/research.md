@@ -21,11 +21,13 @@ Through her research thus far, Rachel has developed two types of magnetic compon
 
 - **R. S. Yang**, A. B. Nadler, C. R. Sullivan and D. J. Perreault, "[Permanent Magnet Hybrid Core Inductors for High Saturation Capability](https://ieeexplore.ieee.org/document/10192270)," IEEE Open Journal of Power Electronics, vol. 4, pp. 603-614, 2023.
 
-- **R. S. Yang**, A. J. Hanson, C. R. Sullivan and D. J. Perreault, “[Design Flexibility of a Modular Low-Loss High-Frequency Inductor Structure](https://ieeexplore.ieee.org/document/9420302),” IEEE Transactions on Power Electronics, vol. 36, no. 11, pp. 13013-13024, Nov 2021.
+- **R. S. Yang**, A. J. Hanson, C. R. Sullivan and D. J. Perreault, “[Design Flexibility of a Modular Low-Loss High-Frequency Inductor Structure](https://ieeexplore.ieee.org/document/9420302),” IEEE Transactions on Power Electronics, vol. 36, no. 11, pp. 13013-13024, Nov 2021. \[[open-access version](https://dspace.mit.edu/bitstream/handle/1721.1/157379/tpel_mpcore_submitted_final.pdf?sequence=1&isAllowed=y)]
 
 - **R. S. Yang**, A. J. Hanson, B. A. Reese, C. R. Sullivan and D. J. Perreault, "[A Low-Loss Inductor Structure and Design Guidelines for High-Frequency Applications](https://ieeexplore.ieee.org/document/8610126/)," IEEE Transactions on Power Electronics, vol. 34, no. 10, pp. 9993-10005, Oct 2019. \[[open-access version](https://dspace.mit.edu/bitstream/handle/1721.1/130102/TPEL_magnetic_structure_2018_final.pdf?sequence=1&isAllowed=y)\]
 
 ## Conference Papers
+
+- **R. S. Yang**, S. M. Coston, A. B. Nadler, T. Guillod, C. R. Sullivan, and D. J. Perreault, "Advantageous Applications for Permanent Magnet Hybrid Core Inductors," IEEE Applied Power Electronics Conference and Exposition (APEC), San Antonio, TX, 2026. **(best presentation award)**
 
 - **R. S. Yang**, I. Nikiforidis, N. Pucci, M. V. Joisher, P. Wagle, P. D. Mitcheson, and D. J. Perreault, “[Design and Performance Comparison of Multi-Frequency Inductors for Megahertz Wireless Power Transfer](https://ieeexplore.ieee.org/document/10509134),” IEEE Applied Power Electronics Conference and Exposition (APEC), Long Beach, CA, 2024. **(outstanding presentation award)**
 
@@ -55,7 +57,7 @@ for High Saturation Capability](https://ieeexplore.ieee.org/document/9830021)," 
 
 ## Theses
 
-- **R. S. Yang**, "Hybrid Core Inductors for High Saturation Capability," PhD thesis, Massachusetts Institute of Technology, 2025.
+- **R. S. Yang**, "[Hybrid Core Inductors for High Saturation Capability](https://dspace.mit.edu/handle/1721.1/164156?show=full)," PhD thesis, Massachusetts Institute of Technology, 2025.
 
 - **R. S. Yang**, "[Low-Loss Inductor Design for High-Frequency Power Applications](https://dspace.mit.edu/bitstream/handle/1721.1/123006/1127567059-MIT.pdf?sequence=1&isAllowed=y)," MEng thesis, Massachusetts Institute of Technology, 2019.
 
