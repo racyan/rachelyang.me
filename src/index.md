@@ -8,7 +8,7 @@ section_classes: about-page
 
 <img src="/assets/images/about_me/headshot.jpg" width="200" class="left" alt="headshot">
 
-Rachel Yang (she/her) is an electrical engineer, researcher, writer, and science communicator. 
+Rachel Yang (she/her) is a researcher, science writer, and educator. 
 
 For research, Rachel works on power electronics, a critical technology that provides power to anything requiring electricity, from smartphones to electric vehicles. She works to make power electronics more energy efficient and more energy dense by improving their most limiting parts: the magnetic components. By developing better magnetic components, Rachel hopes to help advance technology for a more sustainable society, such as by reducing the energy consumption of power-hungry data centers or by accelerating the development of electrified aircraft.
 
