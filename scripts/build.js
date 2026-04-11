@@ -4,7 +4,7 @@ let Metalsmith  = require('metalsmith');
 let layouts     = require('metalsmith-layouts');
 let markdown    = require('metalsmith-markdown');
 let permalinks  = require('metalsmith-permalinks');
-let sass        = require('metalsmith-sass');
+let sass        = require('@metalsmith/sass');
 let start       = require('metalsmith-start');
 let static      = require('metalsmith-static');
 let thumbnailer = require('./thumbnailer.js');
@@ -81,7 +81,7 @@ let ms = Metalsmith(__dirname + '/..')
     }))
     .use(log('Compiling sass'))
     .use(sass({
-        includePaths: [__dirname + '/../sass_includes']
+        loadPaths: [__dirname + '/../sass_includes']
     }));
 
 if (serveMode) {
