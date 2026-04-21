@@ -50,6 +50,11 @@ Rachel is credited as a **script editor** on the following videos (click to expa
 Rachel is credited as a **writer** on the following videos (click to expand):
 
 <details>
+<summary>How Physicists Want to Create Better Surfing Waves</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/xhahnvObE5s?si=8FaM0qnxoEwm4sfJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
+
+<details>
 <summary>Why Hold Music Still Sucks</summary>
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/xcVm_s7W2Ns?si=9NRd-sNUUDvpwYtg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
