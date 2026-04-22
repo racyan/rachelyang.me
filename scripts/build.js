@@ -1,9 +1,9 @@
 let frontmatter = require('metalsmith-matters');
 let handlebars  = require('handlebars');
 let Metalsmith  = require('metalsmith');
-let layouts     = require('metalsmith-layouts');
-let markdown    = require('metalsmith-markdown');
-let permalinks  = require('metalsmith-permalinks');
+let layouts     = require('@metalsmith/layouts');
+let markdown    = require('@metalsmith/markdown');
+let permalinks  = require('@metalsmith/permalinks');
 let sass        = require('@metalsmith/sass');
 let start       = require('metalsmith-start');
 let static      = require('metalsmith-static');
@@ -66,7 +66,7 @@ let ms = Metalsmith(__dirname + '/..')
     .use(frontmatter({
         namespace: 'page'
     }))
-    .use(denamespace('page', ['layout']))
+    // .use(denamespace('page', ['layout']))
     .use(log('Compiling markdown'))
     .use(markdown())
     .use(log('Thumbnailing images'))
@@ -77,7 +77,8 @@ let ms = Metalsmith(__dirname + '/..')
     }))
     .use(log('Applying layouts'))
     .use(layouts({
-        engine: 'handlebars'
+        default: 'default.hbs',
+        pattern: '**/*.html'
     }))
     .use(log('Compiling sass'))
     .use(sass({
