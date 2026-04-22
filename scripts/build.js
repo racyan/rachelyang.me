@@ -55,13 +55,13 @@ let ms = Metalsmith(__dirname + '/..')
     .frontmatter(false)
     .source('./src')
     .destination('./build')
-    .ignore('**/assets/images/*')
+    // .ignore('**/assets/images/*')
     .clean(!serveMode)
     .use(log('Copying static assets'))
-    .use(static({
-        src: './src/assets',
-        dest: './assets'
-    }))
+    // .use(static({
+    //     src: './src/assets',
+    //     dest: './assets'
+    // }))
     .use(log('Parsing frontmatter'))
     .use(frontmatter({
         namespace: 'page'
