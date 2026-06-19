@@ -14,6 +14,11 @@ Rachel is a science writer and communicator who strives to spark interest in sci
 Rachel is credited as an **educator/script writer** on the following videos (click to expand):
 
 <details>
+<summary>Should you rinse your dishes before placing them in the dishwasher?</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/FBpBUwlDId0?si=wNm4QS90KaWBJdtx" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
+
+<details>
 <summary>Your phone’s camera isn’t as good as you think</summary>
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/7dm2AsJ3-E8?si=tJ4Gey4BqDfECRff" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
