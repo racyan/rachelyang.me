@@ -14,6 +14,11 @@ Rachel is a science writer and communicator who strives to spark interest in sci
 Rachel is credited as an **educator/script writer** on the following videos (click to expand):
 
 <details>
+<summary>Why magnets stumped scientists for so long (in partnership with the Nobel Foundation)</summary>
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/jG7ULeWUfDw?si=33wwWQqeY0vtLiPJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
+
+<details>
 <summary>The fastest way to board a plane, according to mathematics</summary>
 <iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/embed/-61qDRPG3to?si=IyEUiu_OTzGtJXRn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
